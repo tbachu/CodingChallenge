@@ -1,0 +1,2981 @@
+dish_name,raw_ingredient,amount,unit
+aac,water,100,milliliters
+aac,salt,5,grams
+aac,fermented soybeans,200,grams
+aac asparagus avocado and cucumber,avocado,1,piece
+aac asparagus avocado and cucumber,cucumber,1,piece
+aac asparagus avocado and cucumber,asparagus,200,g
+aac roll,avocado,1,piece
+aac roll,cucumber,0.5,piece
+aac roll,crab meat,100,grams
+aac roll,sushi rice,1,cup
+aac roll,seaweed,2,sheets
+aac shiitake cucumber and peanut avocado rolls,salt,1,teaspoon
+aac shiitake cucumber and peanut avocado rolls,avocado,1,ripe
+aac shiitake cucumber and peanut avocado rolls,shiitake mushrooms,6,pieces
+aac shiitake cucumber and peanut avocado rolls,sugar,1,tablespoon
+aac shiitake cucumber and peanut avocado rolls,peanuts,1,cup
+aac shiitake cucumber and peanut avocado rolls,sushi rice,1,cup
+aac shiitake cucumber and peanut avocado rolls,rice vinegar,2,tablespoons
+aac shiitake cucumber and peanut avocado rolls,cucumber,1,medium
+aac shiitake cucumber and peanut avocado rolls,nori sheets,4,sheets
+aachari paneer roll,pickles,3,tablespoons
+aachari paneer roll,capsicum,1,medium
+aachari paneer roll,yogurt,2,tablespoons
+aachari paneer roll,spices,1,teaspoon
+aachari paneer roll,onion,1,medium
+aachari paneer roll,paneer,200,grams
+aachari paneer roll,flour tortillas,4,pieces
+aadu chukka,Curry leaves,10,leaves
+aadu chukka,Turmeric powder,1,tsp
+aadu chukka,Red chili powder,1,tsp
+aadu chukka,Ginger,1,inch piece
+aadu chukka,Garam masala,1,tsp
+aadu chukka,Onion,2,medium
+aadu chukka,Oil,2,tbsp
+aadu chukka,Salt,1,tsp
+aadu chukka,Goat meat,500,grams
+aadu chukka,Green chilies,2,
+aadu chukka,Tomato,2,medium
+aadu chukka,Garlic,6,cloves
+aadu chukka,Coriander powder,1,tbsp
+aago biryani,yogurt,1,cup
+aago biryani,ghee,3,tablespoons
+aago biryani,"spices (e.g. cumin, coriander, turmeric, garam masala)",1,tablespoon
+aago biryani,chicken or lamb,500,grams
+aago biryani,rice,2,cups
+aago hyderabadi chicken,onions,2,medium
+aago hyderabadi chicken,oil,3,tablespoons
+aago hyderabadi chicken,turmeric powder,1,teaspoon
+aago hyderabadi chicken,red chili powder,1,teaspoon
+aago hyderabadi chicken,garam masala,1,teaspoon
+aago hyderabadi chicken,chicken,500,grams
+aago hyderabadi chicken,green chilies,2,chopped
+aago hyderabadi chicken,coriander powder,1,teaspoon
+aago hyderabadi chicken,tomatoes,3,medium
+aago hyderabadi chicken,yogurt,1,cup
+aago hyderabadi chicken,salt,1,teaspoon
+aago hyderabadi chicken,ginger-garlic paste,2,tablespoons
+aago mix grill,lamb,200,g
+aago mix grill,Nepali spices,1,tbsp
+aago mix grill,pork,200,g
+aago mix grill,chicken,200,g
+aago non vegetable,turmeric powder,1,teaspoon
+aago non vegetable,chili powder,1,tablespoon
+aago non vegetable,ginger-garlic paste,2,tablespoons
+aago non vegetable,oil,2,tablespoons
+aago non vegetable,cumin powder,1,tablespoon
+aago non vegetable,chicken or goat meat,500,grams
+aago non vegetable,salt,1,teaspoon
+aago non vegetable,coriander powder,1,tablespoon
+aago non vegetable,yogurt,100,grams
+aago vegetable,garlic,3,cloves
+aago vegetable,potatoes,2,medium
+aago vegetable,coriander powder,1,teaspoon
+aago vegetable,turmeric powder,1,teaspoon
+aago vegetable,onion,1,medium
+aago vegetable,cauliflower,1,small head
+aago vegetable,salt,1,teaspoon
+aago vegetable,oil,2,tablespoons
+aago vegetable,tomatoes,2,medium
+aago vegetable,green beans,1,cup
+aago vegetable,cumin powder,1,teaspoon
+aago vegetable,ginger,1,inch piece
+aakkoset,vanilla custard,2,cups
+aakkoset,fresh berries,1,cup
+aakkoset,sponge cake,1,whole
+aakkoset,powdered sugar,1,tablespoon
+aalborg,beef,500,grams
+aalborg,carrots,200,grams
+aalborg,potatoes,300,grams
+aalborg,onions,150,grams
+aalo mutter curry,tomatoes,3,medium
+aalo mutter curry,garam masala,1,tsp
+aalo mutter curry,turmeric powder,1,tsp
+aalo mutter curry,green chilies,2,pieces
+aalo mutter curry,cumin powder,1,tsp
+aalo mutter curry,onion,1,medium
+aalo mutter curry,salt,1,tsp
+aalo mutter curry,coriander powder,1,tbsp
+aalo mutter curry,oil,2,tbsp
+aalo mutter curry,garlic,3,cloves
+aalo mutter curry,ginger,1,inch
+aalo mutter curry,potatoes,2,cups
+aalo mutter curry,peas,1,cup
+aalo mutter korma,onion,1,large
+aalo mutter korma,ginger,1,inch piece
+aalo mutter korma,turmeric powder,1,tsp
+aalo mutter korma,oil,2,tbsp
+aalo mutter korma,peas,1,cup
+aalo mutter korma,garlic,4,cloves
+aalo mutter korma,coriander powder,1,tsp
+aalo mutter korma,tomato,2,medium
+aalo mutter korma,cream,1,cup
+aalo mutter korma,red chili powder,1,tsp
+aalo mutter korma,garam masala,1,tsp
+aalo mutter korma,cumin powder,1,tsp
+aalo mutter korma,potatoes,2,cups
+aalo mutter korma,yogurt,1,cup
+aalo mutter korma,cashew nuts,10,pieces
+aalo mutter korma,salt,1,tsp
+aalo palak,oil,2,tbsp
+aalo palak,coriander powder,1,tsp
+aalo palak,potatoes,2,cups
+aalo palak,salt,1,tsp
+aalo palak,cumin seeds,1,tsp
+aalo palak,garam masala,0.5,tsp
+aalo palak,turmeric powder,1,tsp
+aalo palak,tomato,2,medium
+aalo palak,garlic,3,cloves
+aalo palak,spinach,4,cups
+aalo palak,ginger,1,inch
+aalo palak,green chili,2,pieces
+aalo palak,onion,1,medium
+aaloo tama soup,black-eyed peas,0.5,cup
+aaloo tama soup,potatoes,2,medium
+aaloo tama soup,bamboo shoots,1,cup
+aalu,turmeric powder,1,teaspoon
+aalu,salt,1,teaspoon
+aalu,ginger,1,inch
+aalu,onion,1,medium
+aalu,cumin powder,1,teaspoon
+aalu,green chili,2,pieces
+aalu,oil,2,tablespoons
+aalu,garam masala,1,teaspoon
+aalu,garlic,2,cloves
+aalu,coriander powder,1,teaspoon
+aalu,potatoes,500,grams
+aalu byngun,potatoes,2,medium
+aalu byngun,oil,2,tbsp
+aalu byngun,spices,1,tbsp
+aalu byngun,eggplant,1,large
+aalu deep fry,turmeric powder,0.25,tsp
+aalu deep fry,corn flour,2,tbsp
+aalu deep fry,oil,500,ml
+aalu deep fry,chili powder,0.5,tsp
+aalu deep fry,black pepper,0.5,tsp
+aalu deep fry,potatoes,500,g
+aalu deep fry,salt,1,tsp
+aalu gobhi fry,cumin seeds,1,tsp
+aalu gobhi fry,salt,1,tsp
+aalu gobhi fry,potatoes,2,medium
+aalu gobhi fry,red chili powder,1,tsp
+aalu gobhi fry,turmeric powder,1,tsp
+aalu gobhi fry,coriander powder,1,tsp
+aalu gobhi fry,oil,2,tbsp
+aalu gobhi fry,cauliflower,1,medium
+aalu kurma,oil,2,tbsp
+aalu kurma,garlic,1,tbsp
+aalu kurma,turmeric powder,1,tsp
+aalu kurma,ginger,1,tbsp
+aalu kurma,onions,2,
+aalu kurma,cumin powder,1,tsp
+aalu kurma,coconut milk,200,ml
+aalu kurma,potatoes,500,g
+aalu kurma,tomatoes,2,
+aalu kurma,coriander powder,1,tsp
+aalu kurma,garam masala,1,tsp
+aalu menthi fry,potatoes,500,grams
+aalu menthi fry,oil,2,tablespoons
+aalu menthi fry,red chili powder,1,teaspoon
+aalu menthi fry,turmeric powder,1,teaspoon
+aalu menthi fry,fenugreek seeds,2,tablespoons
+aalu menthi fry,salt,1,teaspoon
+aalu tama bodi,bamboo shoots,1,cup
+aalu tama bodi,potatoes,2,cups
+aalu tama bodi,black-eyed beans,1,cup
+aalu tomato curry,green chili,2,pieces
+aalu tomato curry,garam masala,0.5,tsp
+aalu tomato curry,red chili powder,1,tsp
+aalu tomato curry,salt,1,tsp
+aalu tomato curry,turmeric powder,1,tsp
+aalu tomato curry,tomatoes,300,g
+aalu tomato curry,garlic,3,cloves
+aalu tomato curry,cumin seeds,1,tsp
+aalu tomato curry,onion,1,medium
+aalu tomato curry,potatoes,500,g
+aalu tomato curry,coriander powder,1,tsp
+aalu tomato curry,ginger,1,inch
+aalu tomato curry,oil,2,tbsp
+aam adarak gosht,ginger,2,tablespoons
+aam adarak gosht,onion,1,large
+aam adarak gosht,tomato,2,medium
+aam adarak gosht,mutton,500,grams
+aam adarak gosht,mango,2,pieces
+aam adarak gosht,yogurt,1,cup
+aam adarak gosht,spices,1,tablespoon
+aam aur bhel chat,Black salt,0.5,teaspoon
+aam aur bhel chat,Tamarind chutney,2,tablespoons
+aam aur bhel chat,Sev (crispy chickpea noodles),0.5,cup
+aam aur bhel chat,Salt,0.5,teaspoon
+aam aur bhel chat,Raw mango,1,cup
+aam aur bhel chat,Coriander leaves,1,tablespoon
+aam aur bhel chat,Chaat masala,1,teaspoon
+aam aur bhel chat,Bhel (puffed rice),1,cup
+aam aur bhel chat,Green chilies,2,pieces
+aam chutni,sugar,1.5,cups
+aam chutni,salt,0.5,teaspoon
+aam chutni,red chili powder,0.25,teaspoon
+aam chutni,cumin powder,0.25,teaspoon
+aam chutni,ripe mangoes,2,cups
+aam lassi,spices,1,pinch
+aam lassi,sugar,2,tablespoons
+aam lassi,mango,1,cup
+aam lassi,yogurt,1,cup
+aam palak chaat,sev,0.5,cup
+aam palak chaat,spinach,2,cups
+aam palak chaat,chaat masala,1,tsp
+aam palak chaat,tamarind chutney,2,tbsp
+aam palak chaat,mint chutney,2,tbsp
+aam palak chaat,ripe mangoes,1,cup
+aam panna,roasted cumin powder,1,teaspoon
+aam panna,water,4,cups
+aam panna,black salt,1,teaspoon
+aam panna,raw mangoes,2,medium
+aam panna,mint leaves,10,leaves
+aam panna,sugar,1,cup
+aam ras halwa,saffron,1,pinch
+aam ras halwa,semolina,1,cup
+aam ras halwa,nuts,0.5,cup
+aam ras halwa,sugar,1.5,cups
+aam ras halwa,milk,2,cups
+aam ras halwa,ripe mango pulp,2,cups
+aam ras halwa,ghee,0.5,cup
+aamchuri baby eggplant,sugar,1,teaspoon
+aamchuri baby eggplant,aamchur (dried mango powder),2,tablespoons
+aamchuri baby eggplant,oil,2,tablespoons
+aamchuri baby eggplant,turmeric powder,1,teaspoon
+aamchuri baby eggplant,coriander powder,1,teaspoon
+aamchuri baby eggplant,ginger,1,inch piece
+aamchuri baby eggplant,baby eggplants,8,pieces
+aamchuri baby eggplant,tomato,2,medium
+aamchuri baby eggplant,green chili,2,pieces
+aamchuri baby eggplant,onion,1,medium
+aamchuri baby eggplant,salt,1,teaspoon
+aamchuri baby eggplant,cumin powder,1,teaspoon
+aamchuri baby eggplant,red chili powder,1,teaspoon
+aamchuri baby eggplant,garlic,4,cloves
+aanda curry,tomatoes,2,medium
+aanda curry,cumin,1,tsp
+aanda curry,ginger,1,inch piece
+aanda curry,eggs,6,pieces
+aanda curry,garam masala,1,tsp
+aanda curry,garlic,4,cloves
+aanda curry,onions,2,medium
+aanda curry,turmeric,0.5,tsp
+aanda curry,coriander,1,tsp
+aapam,rice flour,2,cups
+aapam,sugar,2,tablespoons
+aapam,coconut milk,1,cup
+aapam,yeast,1,teaspoon
+aapam,salt,1,teaspoon
+aapam paya,salt,1,tsp
+aapam paya,coconut milk,1,cup
+aapam paya,sugar,2,tbsp
+aapam paya,lamb trotters,500,g
+aapam paya,rice flour,2,cups
+aaron,mushrooms,150,g
+aaron,brown sugar,1,tbsp
+aaron,beef,200,g
+aaron,soy sauce,2,tbsp
+aaron,salt,1,tsp
+aaron,onion,1,large
+aaron,garlic,2,cloves
+aaron catering,garlic,3,cloves
+aaron catering,green onions,0.5,cup
+aaron catering,brown sugar,2,tbsp
+aaron catering,sesame oil,1,tbsp
+aaron catering,ginger,1,tbsp
+aaron catering,chicken,2,lbs
+aaron catering,soy sauce,0.5,cup
+aarrearkku,oats,1,cup
+aarrearkku,sugar,1.5,cups
+aarrearkku,lingonberries,2,cups
+aaryas seafood alfredo,garlic,3,cloves
+aaryas seafood alfredo,salt,1,tsp
+aaryas seafood alfredo,butter,1,cup
+aaryas seafood alfredo,parmesan cheese,1,cup
+aaryas seafood alfredo,heavy cream,2,cups
+aaryas seafood alfredo,fettuccine pasta,1,lb
+aaryas seafood alfredo,pepper,1,tsp
+aaryas seafood alfredo,seafood mix,1,lb
+aasada,lime juice,0.25,cup
+aasada,soy sauce,2,tbsp
+aasada,beef,1,lb
+aasada,garlic,3,cloves
+aasada,onion,1,medium
+aash reshteh,cilantro,1,cup
+aash reshteh,noodles,1,cup
+aash reshteh,parsley,1,cup
+aash reshteh,spinach,2,cups
+aash reshteh,chickpeas,1,can
+aash reshteh,turmeric,1,tsp
+aash reshteh,lentils,1,cup
+aash reshteh,pepper,0.5,tsp
+aash reshteh,onion,1,large
+aash reshteh,garlic,3,cloves
+aash reshteh,salt,1,tsp
+aashak,olive oil,2,tbsp
+aashak,leeks,2,cups
+aashak,flour,1.5,cups
+aashak,black pepper,0.5,tsp
+aashak,garlic,2,cloves
+aashak,yogurt,1,cup
+aashak,salt,1,tsp
+aatishi boti kabab,Salt,1,teaspoon
+aatishi boti kabab,Boneless Chicken,500,grams
+aatishi boti kabab,Yogurt,1,cup
+aatishi boti kabab,Lemon Juice,2,tablespoons
+aatishi boti kabab,Ginger Garlic Paste,2,tablespoons
+aatishi boti kabab,Red Chili Powder,1,tablespoon
+aatishi boti kabab,Oil,2,tablespoons
+aatishi boti kabab,Turmeric Powder,1,teaspoon
+aatishi boti kabab,Garam Masala,1,teaspoon
+aatishi boti kabab,Coriander Powder,1.5,teaspoons
+aatishi boti kabab,Cumin Powder,1.5,teaspoons
+aattukaal soup,cumin seeds,1,tsp
+aattukaal soup,salt,1,tsp
+aattukaal soup,tomato,1,medium
+aattukaal soup,garlic,4,cloves
+aattukaal soup,onion,1,medium
+aattukaal soup,water,4,cups
+aattukaal soup,coriander leaves,2,tbsp
+aattukaal soup,ginger,1,inch piece
+aattukaal soup,horse gram,1,cup
+aattukaal soup,turmeric powder,0.5,tsp
+aay,cumin,1,teaspoon
+aay,olive oil,2,tablespoons
+aay,eggplant,2,medium
+aay,salt,1,teaspoon
+aay,garlic,2,cloves
+aay,lemon juice,1,tablespoon
+aay,tahini,2,tablespoons
+aay,paprika,1,teaspoon
+abac lo mein kway teow ree mao,shrimp,150,g
+abac lo mein kway teow ree mao,green onions,2,stalks
+abac lo mein kway teow ree mao,chicken breast,200,g
+abac lo mein kway teow ree mao,bell pepper,1,medium
+abac lo mein kway teow ree mao,onion,1,medium
+abac lo mein kway teow ree mao,garlic,3,cloves
+abac lo mein kway teow ree mao,chili flakes,1,tsp
+abac lo mein kway teow ree mao,vegetable oil,2,tbsp
+abac lo mein kway teow ree mao,oyster sauce,2,tbsp
+abac lo mein kway teow ree mao,bean sprouts,100,g
+abac lo mein kway teow ree mao,rice noodles,200,g
+abac lo mein kway teow ree mao,soy sauce,3,tbsp
+abacha delicacy,spices,1,tbsp
+abacha delicacy,dried shredded cassava,2,cups
+abacha delicacy,palm oil,1,cup
+abacha delicacy,vegetables,1,cup
+abacon lettuce tomato rancher,bacon,4,slices
+abacon lettuce tomato rancher,ranch dressing,2,tablespoons
+abacon lettuce tomato rancher,lettuce,2,leaves
+abacon lettuce tomato rancher,bread,2,slices
+abacon lettuce tomato rancher,tomato,1,slice
+abadia de san campio albarino spain,Albarino wine,1,bottle
+abadia retuerta sardon de duero,carrots,2,pieces
+abadia retuerta sardon de duero,onions,2,pieces
+abadia retuerta sardon de duero,garlic,3,cloves
+abadia retuerta sardon de duero,thyme,1,teaspoon
+abadia retuerta sardon de duero,beef,500,grams
+abadia retuerta sardon de duero,tomatoes,2,pieces
+abadia retuerta sardon de duero,paprika,1,teaspoon
+abadia retuerta sardon de duero,salt,1,teaspoon
+abadia retuerta sardon de duero,pepper,0.5,teaspoon
+abadia retuerta sardon de duero,bay leaves,2,pieces
+abadia retuerta sardon de duero,potatoes,3,pieces
+abalone,Salt,1,pinch
+abalone,Garlic,2,cloves
+abalone,Abalone,1,piece
+abalone,Lemon,1,slice
+abalone,Butter,2,tablespoons
+abalone porridge,Water,4,cups
+abalone porridge,Garlic,2,cloves
+abalone porridge,Abalone,2,pieces
+abalone porridge,Soy sauce,2,tablespoons
+abalone porridge,Rice,1,cup
+abalone porridge,Ginger,1,inch
+abalone shell,Abalone shell,1,piece
+abasolo,spices,1,tbsp
+abasolo,roasted corn,2,cups
+abasolo,beans,1,cup
+abasolo mexican corn whisky,Mexican Cacahuazintle corn,100,%
+abasolo whiskey,Cacahuazintle corn,100,%
+abbaee soondae,pork blood,200,g
+abbaee soondae,pig's intestines,1,set
+abbaee soondae,seasonings,50,g
+abbaee soondae,glass noodles,100,g
+abbaee wang soonadae,rice,50,grams
+abbaee wang soonadae,seasonings,10,grams
+abbaee wang soonadae,blood,100,milliliters
+abbaee wang soonadae,pork,300,grams
+abbazia novacella gewurztraminer alto adige valle italy,Abbazia Novacella Gewurztraminer,1,bottle
+abbazia novacella gewürztraminer alto adige valle italy,Abbazia Novacella Gewürztraminer,1,bottle
+abbazia novacella kerner,Abbazia Novacella Kerner,1,bottle
+abbey,lamb,1,lb
+abbey,tomatoes,3,large
+abbey,Mediterranean spices,2,tbsp
+abbey,eggplant,2,medium
+abbey black and blue burger,bacon,2,slices
+abbey black and blue burger,beef patty,1,pc
+abbey black and blue burger,blue cheese,2,oz
+abbey chardonnay napa valley california united states,Water,250,ml
+abbey chardonnay napa valley california united states,Chardonnay grapes,750,ml
+abbey dog,honey mustard,2,tablespoons
+abbey dog,sausage,1,piece
+abbey dog,caramelized onions,1,cup
+abbey dog,sauerkraut,0.5,cup
+abbey flatbread,olive oil,3,tbsp
+abbey flatbread,herbs,2,tbsp
+abbey flatbread,cheese,1,cup
+abbey flatbread,water,1,cup
+abbey flatbread,flour,2,cups
+abbey merlot napa valley california united states,Merlot wine,1,bottle
+abbey wings,honey,2,tbsp
+abbey wings,flour,1,cup
+abbey wings,pepper,1,tsp
+abbey wings,butter,2,tbsp
+abbey wings,paprika,1,tsp
+abbey wings,salt,1,tsp
+abbey wings,chicken wings,12,pieces
+abbey wings,garlic powder,1,tsp
+abbey wings,hot sauce,1,cup
+abbeys key lime pie,graham cracker crumbs,1.5,cups
+abbeys key lime pie,egg yolks,4,
+abbeys key lime pie,key lime juice,1,cup
+abbeys key lime pie,sweetened condensed milk,1,can
+abbeys key lime pie,whipped cream,1,cup
+abbeys key lime pie,sugar,0.25,cup
+abbeys key lime pie,butter,0.5,cup
+abbeys marinated steak,olive oil,2,tbsp
+abbeys marinated steak,garlic,3,cloves
+abbeys marinated steak,soy sauce,1,cup
+abbeys marinated steak,rosemary,1,tsp
+abbeys marinated steak,thyme,1,tsp
+abbeys marinated steak,steak,1,lb
+abbeys marinated steak,black pepper,1,tsp
+abbeys marinated steak,brown sugar,2,tbsp
+abbracci,flour,2.5,cups
+abbracci,vanilla extract,1,tsp
+abbracci,sugar,1.5,cups
+abbracci,butter,1,cup
+abbruzzese,pasta,200,g
+abbruzzese,tomatoes,400,g
+abbruzzese,cheese,100,g
+abbruzzese,sausage,250,g
+abby salsa picante,onion,1,medium
+abby salsa picante,cilantro,1,cup
+abby salsa picante,tomatoes,4,cups
+abby salsa picante,lime juice,2,tablespoons
+abby salsa picante,jalapeno peppers,2,medium
+abby salsa picante,sugar,1,tablespoon
+abby salsa picante,garlic,2,cloves
+abby salsa picante,salt,1,teaspoon
+abbys burger,special sauce,1,tbsp
+abbys burger,cheese,1,slice
+abbys burger,onion,1,slice
+abbys burger,beef patty,1,pc
+abbys burger,lettuce,1,leaf
+abbys burger,tomato,1,slice
+abbys nutbutter toast,toast,1,slice
+abbys nutbutter toast,nut butter,2,tablespoons
+abc,green onions,2,stalks
+abc,tofu,200,g
+abc,soy sauce,2,tbsp
+abc,sesame oil,1,tbsp
+abc,garlic,2,cloves
+abc cookies,baking soda,1,tsp
+abc cookies,flour,2,cups
+abc cookies,chocolate chips,1,cup
+abc cookies,salt,0.5,tsp
+abc cookies,butter,1,cup
+abc cookies,eggs,2,
+abc cookies,sugar,1.5,cups
+abc cookies,vanilla extract,1,tsp
+abc ice kacang,shaved ice,1,bowl
+abc ice kacang,red beans,2,tablespoons
+abc ice kacang,grass jelly,2,tablespoons
+abc ice kacang,corn,2,tablespoons
+abc ice kacang,sweetened condensed milk,2,tablespoons
+abc ice kacang,colorful syrups,3,tablespoons
+abc omelet,cheese,1,cup
+abc omelet,eggs,3,pieces
+abc omelet,bell pepper,1,small
+abc omelet,onion,1,small
+abc sandwich,bacon,2,slices
+abc sandwich,cheddar cheese,2,slices
+abc sandwich,bread,2,slices
+abc sandwich,grilled chicken,1,piece
+abc smoothie,carrot,1,medium
+abc smoothie,apple,1,medium
+abc smoothie,spinach,1,cup
+abc smoothie,banana,1,medium
+abc smoothie,honey,1,tablespoon
+abc smoothie,lemon juice,1,tablespoon
+abc trout in curry,Trout fillets,4,pieces
+abc trout in curry,Onion,1,"medium, chopped"
+abc trout in curry,Oil,2,tablespoons
+abc trout in curry,Tomatoes,2,"medium, chopped"
+abc trout in curry,Ginger,1,"inch, grated"
+abc trout in curry,Garlic,3,"cloves, minced"
+abc trout in curry,Curry powder,2,tablespoons
+abc trout in curry,Salt,1,teaspoon
+abc trout in curry,Coriander leaves,2,"tablespoons, chopped"
+abc trout in curry,Coconut milk,1,cup
+abc trout in curry,Green chilies,2,sliced
+abc wrap,bacon,100,grams
+abc wrap,lettuce,50,grams
+abc wrap,chicken,200,grams
+abc wrap,avocado,1,ripe
+abc wrap,tomato,1,medium
+abe foreman pizza,Italian sausage,0.5,cup
+abe foreman pizza,Pizza dough,1,piece
+abe foreman pizza,Black pepper,0.25,teaspoon
+abe foreman pizza,Olive oil,2,tablespoons
+abe foreman pizza,Tomato sauce,0.5,cup
+abe foreman pizza,Garlic,2,cloves
+abe foreman pizza,Red onion,0.25,cup
+abe foreman pizza,Mozzarella cheese,1,cup
+abe foreman pizza,Pepperoni slices,10,pieces
+abe foreman pizza,Green bell pepper,0.25,cup
+abe foreman pizza,Salt,0.5,teaspoon
+abe froman,mushrooms,150,g
+abe froman,Parmesan cheese,50,g
+abe froman,prosciutto,100,g
+abe froman,truffle oil,10,ml
+abe lincoln,black pepper,1,tsp
+abe lincoln,soy sauce,2,tbsp
+abe lincoln,beef,200,g
+abe lincoln,garlic,2,cloves
+abe lincoln,onions,1,large
+abe lincoln,mushrooms,100,g
+aberfeldy,carrots,2,pieces
+aberfeldy,whisky,50,ml
+aberfeldy,onion,1,piece
+aberfeldy,beef,500,grams
+aberfeldy,potatoes,3,pieces
+aberfeldy year,single malt Scotch whisky,1,bottle
+aberlour,Aberlour whisky,2,oz
+aberlour abunadh,Aberlour A'Bunadh Scotch Whisky,1,shot
+aberlour cask,malted barley,1,cup
+aberlour cask,water,2,cups
+aberlour cask,yeast,1,packet
+aberlour scotch whisky,Aberlour Scotch Whisky,1,glass
+aberlour speyside malt abunadh cask strength,Aberlour Speyside Malt Abunadh Cask Strength,1,bottle
+aberlour speyside malt year old cask,Aberlour Speyside Malt 12 Year Old Cask,1,bottle
+aberlour year,whisky,1,bottle
+abes spicy margarita,lime juice,1,oz
+abes spicy margarita,tequila,2,oz
+abes spicy margarita,agave nectar,0.5,oz
+abes spicy margarita,jalapeno slices,2,pieces
+abes spicy margarita,salt,1,pinch
+abetone,beef,300,g
+abetone,carrots,2,pieces
+abetone,thyme,1,tsp
+abetone,rosemary,1,tsp
+abetone,pepper,0.5,tsp
+abetone,onion,1,medium
+abetone,pork,200,g
+abetone,celery,2,stalks
+abetone,beef broth,2,cups
+abetone,salt,1,tsp
+abetone,red wine,1,cup
+abetone,tomato paste,2,tbsp
+abg doner,seasoned meat,200,grams
+abg doner,vegetables,100,grams
+abg doner,tahini or yogurt sauce,50,grams
+abigail,tomatoes,2,cups
+abigail,herbs,2,tablespoons
+abigail,olives,1,cup
+abigail,feta cheese,1,cup
+abigail mussels,garlic,3,cloves
+abigail mussels,butter,2,tbsp
+abigail mussels,white wine,1,cup
+abigail mussels,mussels,1,lb
+abigail mussels,lemon,1,slice
+abigail mussels,parsley,2,tbsp
+abilene chicken sandwich,pickles,2,slices
+abilene chicken sandwich,lettuce,1,leaf
+abilene chicken sandwich,barbecue sauce,2,tablespoons
+abilene chicken sandwich,melted cheese,1,slice
+abilene chicken sandwich,toasted buns,2,pieces
+abilene chicken sandwich,fried chicken patty,1,piece
+abirria,water,4,cups
+abirria,bay leaves,2,pieces
+abirria,apple cider vinegar,2,tbsp
+abirria,onion,1,large
+abirria,goat meat,1,kg
+abirria,cumin seeds,1,tbsp
+abirria,dried ancho chilies,3,pieces
+abirria,black pepper,1,tsp
+abirria,oregano,1,tbsp
+abirria,dried guajillo chilies,5,pieces
+abirria,garlic cloves,6,pieces
+abirria,salt,1,tsp
+abita christmas ale,Abita Christmas Ale,1,bottle
+abita purple haze,wheat,0.5,cup
+abita purple haze,hops,0.25,cup
+abita purple haze,malted barley,1,cup
+abita purple haze,raspberry puree,0.5,cup
+abita purple haze,yeast,0.1,cup
+abita root beer,Root Beer Extract,1,tablespoon
+abita root beer,Water,1,cup
+abita root beer,Vanilla Extract,1,teaspoon
+abita root beer,Yeast,1,pinch
+abita root beer,Cane Sugar,2,tablespoons
+abita root beer,Sassafras Root Bark,1,teaspoon
+abita root beer,Molasses,1,teaspoon
+abita root beer float,Vanilla ice cream,2,scoops
+abita root beer float,Abita root beer,1,bottle
+abita rootbeer,vanilla extract,1,tablespoon
+abita rootbeer,water,2,cups
+abita rootbeer,sugar,1.5,cups
+abita rootbeer,caramel extract,1,tablespoon
+abita rootbeer,root beer extract,2,tablespoons
+ablama warm mezza,zucchinis,4,pieces
+ablama warm mezza,tomato sauce,1,cup
+ablama warm mezza,lemon juice,2,tbsp
+ablama warm mezza,ground beef,200,g
+ablama warm mezza,rice,1,cup
+ablama warm mezza,eggplants,2,pieces
+ablama warm mezza,garlic,2,cloves
+ablama warm mezza,olive oil,2,tbsp
+ablama warm mezza,onion,1,medium
+ablama warm mezza,pepper,0.5,tsp
+ablama warm mezza,salt,1,tsp
+ablemarle cider works hewes crab,water,2,cups
+ablemarle cider works hewes crab,hewes crab apples,4,cups
+ablemarle cider works hewes crab,sugar,1,cup
+ablemarle cider works hewes crab,yeast,1,packet
+ablemarle cider works ragged mountain,sugar,1,cup
+ablemarle cider works ragged mountain,water,2,cups
+ablemarle cider works ragged mountain,apples,5,cups
+ablemarle cider works ragged mountain,yeast,1,packet
+aboboi with sweet plantain starting,pepper,0.5,teaspoon
+aboboi with sweet plantain starting,tomato,2,medium
+aboboi with sweet plantain starting,sweet plantains,2,pieces
+aboboi with sweet plantain starting,red bell pepper,1,medium
+aboboi with sweet plantain starting,beans,1,cup
+aboboi with sweet plantain starting,salt,1,teaspoon
+aboboi with sweet plantain starting,palm oil,2,tablespoons
+aboboi with sweet plantain starting,onion,1,medium
+abol kitfo,spices,2,tsp
+abol kitfo,minced raw beef,250,g
+abol kitfo,injera,4,pieces
+abol lamb tibs,lamb,500,grams
+abol lamb tibs,garlic,4,cloves
+abol lamb tibs,onions,2,medium
+abol lamb tibs,Ethiopian spices,2,tablespoons
+abol shero wet,onion,1,medium
+abol shero wet,vegetable oil,2,tbsp
+abol shero wet,tomato paste,2,tbsp
+abol shero wet,injera,4,pieces
+abol shero wet,garlic,2,cloves
+abol shero wet,lentils,1,cup
+abol shero wet,berbere spice blend,2,tbsp
+abol shero wet,ginger,1,tbsp
+abol tibs,bell peppers,2,medium
+abol tibs,beef,500,grams
+abol tibs,spices,1,tablespoon
+abol tibs,onions,2,medium
+abomu,assorted meats,500,grams
+abomu,yam,2,cups
+abomu,palm oil,1,cup
+abps original chicken salad,pepper,0.25,teaspoon
+abps original chicken salad,celery,1,cup
+abps original chicken salad,lemon juice,2,tablespoons
+abps original chicken salad,mayonnaise,0.5,cup
+abps original chicken salad,grapes,1,cup
+abps original chicken salad,chicken,2,cups
+abps original chicken salad,salt,0.5,teaspoon
+abraham bowman virginia,bourbon,1.5,oz
+abricotier,Almond extract,1,teaspoon
+abricotier,Butter,2,tablespoons
+abricotier,Lemon juice,2,tablespoons
+abricotier,Apricots,6,pieces
+abricotier,Flour,1,cup
+abricotier,Sugar,1,cup
+abruzzi,tomato sauce,1,cup
+abruzzi,olive oil,2,tablespoons
+abruzzi,onion,1,medium
+abruzzi,pasta,200,grams
+abruzzi,parmesan cheese,50,grams
+abruzzi,garlic,2,cloves
+abruzzi,ground beef,250,grams
+abruzzi dchix,chicken,1,whole
+abruzzi dchix,salt,1,tsp
+abruzzi dchix,black pepper,1,tsp
+abruzzi dchix,garlic,3,cloves
+abruzzi dchix,thyme,1,tsp
+abruzzi dchix,lemon,1,whole
+abruzzi dchix,rosemary,1,tsp
+abruzzi dchix,olive oil,2,tbsp
+abruzzi dveal,onion,1,medium
+abruzzi dveal,garlic,2,cloves
+abruzzi dveal,salt,1,teaspoon
+abruzzi dveal,tomato sauce,1,cup
+abruzzi dveal,rosemary,1,teaspoon
+abruzzi dveal,red wine,1,cup
+abruzzi dveal,olive oil,2,tablespoons
+abruzzi dveal,veal,500,grams
+abruzzi dveal,pepper,0.5,teaspoon
+abruzzi lchix,pepper,0.5,teaspoon
+abruzzi lchix,olive oil,2,tablespoons
+abruzzi lchix,chicken,500,grams
+abruzzi lchix,onion,1,large
+abruzzi lchix,white wine,1,cup
+abruzzi lchix,tomatoes,2,cans
+abruzzi lchix,rosemary,1,sprig
+abruzzi lchix,garlic,3,cloves
+abruzzi lchix,salt,1,teaspoon
+abruzzi lveal,garlic,3,cloves
+abruzzi lveal,pepper,1,teaspoon
+abruzzi lveal,olive oil,2,tablespoons
+abruzzi lveal,veal,500,grams
+abruzzi lveal,salt,1,teaspoon
+abruzzi lveal,onion,1,large
+abruzzi lveal,tomato,2,cans
+abruzzi lveal,white wine,1,cup
+abruzzi lveal,rosemary,1,sprig
+abruzzi primo,tomatoes,2,medium
+abruzzi primo,pancetta,100,grams
+abruzzi primo,pasta,200,grams
+abruzzi primo,pecorino cheese,50,grams
+abruzzi primo,garlic,2,cloves
+absente,water,0.5,oz
+absente,sugar,0.25,oz
+absente,absinthe,1.5,oz
+absente absinthe refined,botanicals,2,tablespoons
+absente absinthe refined,anise,1,cup
+absente absinthe refined,wormwood,1,bunch
+absinthe,Sugar,1,tsp
+absinthe,Water,1,tsp
+absinthe,Absinthe,2,oz
+absinthe and bacon mussels,mussels,1,lb
+absinthe and bacon mussels,absinthe,0.25,cup
+absinthe and bacon mussels,bacon,6,slices
+absinthe lucide tourment pernod,Absinthe Lucide Tourment Pernod,1,shot
+absinthe rickey,sugar,0.5,oz
+absinthe rickey,absinthe,2,oz
+absinthe rickey,soda water,3,oz
+absinthe rickey,lime juice,1,oz
+absinthe saint georges,Sugar cube,1,piece
+absinthe saint georges,Absinthe,1.5,oz
+absinthe saint georges,Cold water,3,oz
+absolut,Absolut vodka,1.5,oz
+absolut chesapeake,clamato juice,4,oz
+absolut chesapeake,Worcestershire sauce,0.5,tsp
+absolut chesapeake,vodka,2,oz
+absolut chesapeake,hot sauce,0.5,tsp
+absolut citron vodka,Absolut Citron Vodka,1.5,oz
+absolut crush,Lemon Juice,1,oz
+absolut crush,Simple Syrup,0.5,oz
+absolut crush,Orange Juice,2,oz
+absolut crush,Orange Slice,1,slice
+absolut crush,Absolut Vodka,2,oz
+absolut elyx,Absolut Elyx,1,shot
+absolut neat,Absolut Vodka,1,shot
+absolut peppar vodka,Absolut Peppar Vodka,1.5,oz
+absolut stoli beefeater or tanqueray,Tanqueray gin,0,
+absolut stoli beefeater or tanqueray,Stoli vodka,0,
+absolut stoli beefeater or tanqueray,Beefeater gin,0,
+absolut stoli beefeater or tanqueray,Absolut vodka,0,
+absolut vodka,Absolut Vodka,1,shot
+absolute pineapple fried rice,bell peppers,1,cup
+absolute pineapple fried rice,chicken or shrimp,1,cup
+absolute pineapple fried rice,eggs,2,
+absolute pineapple fried rice,pepper,1,teaspoon
+absolute pineapple fried rice,salt,1,teaspoon
+absolute pineapple fried rice,cooked rice,2,cups
+absolute pineapple fried rice,onion,1,medium
+absolute pineapple fried rice,fish sauce,1,tablespoon
+absolute pineapple fried rice,soy sauce,2,tablespoons
+absolute pineapple fried rice,pineapple chunks,1,cup
+absolute pineapple fried rice,vegetable oil,2,tablespoons
+absolute pineapple fried rice,garlic,2,cloves
+absolute pineapple fried rice,green onions,2,stalks
+absolute siam beef,chili,1,small
+absolute siam beef,beef slices,300,grams
+absolute siam beef,oyster sauce,2,tablespoons
+absolute siam beef,soy sauce,2,tablespoons
+absolute siam beef,vegetable oil,2,tablespoons
+absolute siam beef,onion,1,medium
+absolute siam beef,bell pepper,1,medium
+absolute siam beef,garlic,3,cloves
+absolutely that time,garlic,3,cloves
+absolutely that time,ginger,1,inch
+absolutely that time,chicken thighs,4,pieces
+absolutely that time,honey,2,tablespoons
+absolutely that time,soy sauce,1,cup
+abstract punch,club soda,2,cups
+abstract punch,sugar,0.5,cup
+abstract punch,lemon juice,0.5,cup
+abstract punch,pineapple juice,1,cup
+abstract punch,orange juice,2,cups
+abstract salad,feta cheese,0.25,cup
+abstract salad,red onion,0.5,cup
+abstract salad,lemon juice,1,tablespoon
+abstract salad,honey,1,teaspoon
+abstract salad,olive oil,1,tablespoon
+abstract salad,cucumber,1,cup
+abstract salad,strawberries,0.5,cup
+abstract salad,balsamic vinegar,2,tablespoons
+abstract salad,mixed greens,2,cups
+abstract salad,cherry tomatoes,1,cup
+abtey poire williams,Williams pears,500,g
+abtey poire williams,Water,500,ml
+abtey poire williams,Sugar,300,g
+abtey poire williams,Alcohol,500,ml
+abuela soup,carrots,2,medium
+abuela soup,potatoes,2,medium
+abuela soup,corn,1,cup
+abuela soup,onion,1,large
+abuela soup,tomatoes,2,medium
+abuela soup,salt,1,tsp
+abuela soup,pepper,0.5,tsp
+abuela soup,beef,1,lb
+abuela soup,cilantro,0.5,cup
+abuela soup,garlic,3,cloves
+abuelas chicken croquetas,salt,1,teaspoon
+abuelas chicken croquetas,garlic powder,0.5,teaspoon
+abuelas chicken croquetas,eggs,2,pieces
+abuelas chicken croquetas,shredded chicken,2,cups
+abuelas chicken croquetas,pepper,0.5,teaspoon
+abuelas chicken croquetas,bechamel sauce,1,cup
+abuelas chicken croquetas,flour,1,cup
+abuelas chicken croquetas,breadcrumbs,1,cup
+abuelas chicken croquetas,olive oil,2,tablespoons
+abuelita hot chocolate,cinnamon,1,stick
+abuelita hot chocolate,milk,2,cups
+abuelita hot chocolate,chocolate,2,tablets
+abuelita hot chocolate,sugar,2,tablespoons
+abuelo,tomatoes,2,medium
+abuelo,potatoes,3,medium
+abuelo,carrots,2,medium
+abuelo,paprika,1,tsp
+abuelo,garlic,3,cloves
+abuelo,onion,1,large
+abuelo,cumin,1,tsp
+abuelo,pepper,0.5,tsp
+abuelo,beef,1,lb
+abuelo,beef broth,4,cups
+abuelo,salt,1,tsp
+abunabunu soup,Palm oil,100,ml
+abunabunu soup,Stock cubes,2,cube
+abunabunu soup,Water,1.5,L
+abunabunu soup,Scotch bonnet peppers,2,whole
+abunabunu soup,Bell peppers,2,medium
+abunabunu soup,"African spices (suya spice, crayfish)",2,tbsp
+abunabunu soup,Onions,2,medium
+abunabunu soup,"Assorted meats (beef, goat, tripe)",500,g
+abunai,Sake,1,tablespoon
+abunai,Ginger,1,inch
+abunai,Mirin,1,tablespoon
+abunai,Green onions,2,stalks
+abunai,Sugar,1.5,tablespoons
+abunai,Garlic,2,cloves
+abunai,Soy sauce,2,tablespoons
+abunai,Chicken thighs,4,pieces
+abunai hand roll,Sushi rice,50,grams
+abunai hand roll,Nori seaweed sheets,1,sheet
+abunai hand roll,"Fresh seafood (e.g. tuna, salmon, shrimp)",100,grams
+abura miso buta onigiri,soy sauce,1,tbsp
+abura miso buta onigiri,ground pork,150,g
+abura miso buta onigiri,sesame oil,1,tsp
+abura miso buta onigiri,miso paste,2,tbsp
+abura miso buta onigiri,rice,1,cup
+abura miso buta onigiri,sugar,1,tsp
+abura miso nasu onigiri,eggplant,2,pieces
+abura miso nasu onigiri,rice,1,cup
+abura miso nasu onigiri,miso paste,2,tablespoons
+aburi five,sugar,1,teaspoon
+aburi five,fish fillets,5,pieces
+aburi five,soy sauce,2,tablespoons
+aburi five,mirin,1,tablespoon
+aburi five,green onions,2,stalks
+aburi five,sake,1,tablespoon
+aburi kaizen don,Savory sauce,2,tbsp
+aburi kaizen don,Tuna,100,g
+aburi kaizen don,Scallops,100,g
+aburi kaizen don,Salmon,100,g
+aburi kaizen don,Fresh vegetables,50,g
+aburi saba,soy sauce,2,tablespoons
+aburi saba,mackerel,2,pieces
+aburi saba,sake,1,tablespoon
+aburi saba,mirin,1,tablespoon
+aburi saba,sugar,1,teaspoon
+aburi zushi,soy sauce,2,tbsp
+aburi zushi,sushi rice,1,cup
+aburi zushi,mayonnaise,1,tbsp
+aburi zushi,fresh fish (salmon or tuna),200,g
+aburisaba,soy sauce,1,cup
+aburisaba,mirin,2,tablespoons
+aburisaba,garlic,1,clove
+aburisaba,ginger,1,teaspoon
+aburisaba,mackerel,2,pieces
+aburisaba,sugar,1,tablespoon
+abzul,beef,500,grams
+abzul,bay leaves,2,pieces
+abzul,pepper,0.5,teaspoon
+abzul,carrots,2,pieces
+abzul,garlic,3,cloves
+abzul,salt,1,teaspoon
+abzul,potatoes,3,pieces
+abzul,paprika,1,teaspoon
+abzul,beef broth,500,milliliters
+abzul,tomato paste,2,tablespoons
+abzul,onion,1,piece
+acabeza,oregano,1,tsp
+acabeza,carrots,2,medium
+acabeza,onions,1,medium
+acabeza,tomatoes,2,medium
+acabeza,beef,1,lb
+acabeza,cumin,1,tsp
+acabeza,potatoes,2,medium
+acacia pinot noir,Acacia Pinot Noir,1,bottle
+acacia roll,vanilla extract,1,tsp
+acacia roll,salt,0.5,tsp
+acacia roll,milk,1.25,cups
+acacia roll,sugar,1.5,cups
+acacia roll,flour,2,cups
+acacia roll,butter,0.5,cup
+acacia roll,yeast,1,packet
+acacia rose california,pastry dough,1,sheet
+acacia rose california,rose water,2,tbsp
+acacia rose california,heavy cream,1,cup
+acacia rose california,acacia flowers,10,pieces
+acacia rose california,sugar,1.5,cups
+acadian pearl,spices,1,tsp
+acadian pearl,herbs,2,tbsp
+acadian pearl,seafood,250,g
+acadian pearl,cream,200,ml
+acadian peppered shrimp,salt,1,tsp
+acadian peppered shrimp,butter,1,cup
+acadian peppered shrimp,cayenne pepper,1,tsp
+acadian peppered shrimp,shrimp,1,lb
+acadian peppered shrimp,black pepper,1,tsp
+acadian peppered shrimp,lemon,1,whole
+acadian peppered shrimp,paprika,1,tsp
+acadian peppered shrimp,garlic,4,cloves
+acai,granola,0.5,cup
+acai,acai berries,1,cup
+acai,nuts,0.25,cup
+acai,fruits,0.5,cup
+acai banana smoothie,acai berries,1,cup
+acai banana smoothie,ripe bananas,2,medium
+acai base,honey,1,tbsp
+acai base,banana,1,medium
+acai base,almond milk,1,cup
+acai base,acai puree,1,cup
+acai berry,acai berry,1,cup
+acai berry blast smoothie,honey,1,tablespoon
+acai berry blast smoothie,almond milk,1,cup
+acai berry blast smoothie,Greek yogurt,1,cup
+acai berry blast smoothie,banana,1,medium
+acai berry blast smoothie,blueberries,1,cup
+acai berry blast smoothie,acai berries,1,cup
+acai berry smoothie,almond milk,1,cup
+acai berry smoothie,banana,1,medium
+acai berry smoothie,acai berries,1,cup
+acai berry smoothie,honey,1,tablespoon
+acai berry smoothie,lemon juice,1,tablespoon
+acai energy smoothie,banana,1,medium
+acai energy smoothie,spinach,1,handful
+acai energy smoothie,almond milk,1,cup
+acai energy smoothie,honey,1,tablespoon
+acai energy smoothie,chia seeds,1,tablespoon
+acai energy smoothie,acai berries,1,cup
+acai mule,Lime juice,1,oz
+acai mule,Ice,1,cup
+acai mule,Acai berry puree,2,oz
+acai mule,Simple syrup,0.5,oz
+acai mule,Vodka,2,oz
+acai mule,Ginger beer,2,oz
+acai palmberry,acai palmberry,1,cup
+acai plus smoothie,banana,1,medium
+acai plus smoothie,acai berries,1,cup
+acai plus smoothie,blueberries,1,cup
+acai plus smoothie,honey,1,tablespoon
+acai plus smoothie,almond milk,1,cup
+acai plus smoothie,strawberries,1,cup
+acai pure basic,acai berries,2,cups
+acai pure size,honey,2,tablespoons
+acai pure size,acai berries,2,cups
+acai pure size,banana,1,medium
+acai smoothie,strawberries,1,cup
+acai smoothie,honey,1,tablespoon
+acai smoothie,banana,1,medium
+acai smoothie,acai berries,1,cup
+acai smoothie,almond milk,1,cup
+acai tropical,tropical fruits,1,cup
+acai tropical,acai berries,1,cup
+acai tropical,honey,2,tablespoons
+acamaron,onion,1,large
+acamaron,garlic,4,cloves
+acamaron,salt,1,tsp
+acamaron,clams,0.5,lb
+acamaron,parsley,2,tbsp
+acamaron,white wine,1,cup
+acamaron,tomatoes,4,cans
+acamaron,mussels,0.5,lb
+acamaron,white fish fillets,1,lb
+acamaron,pepper,0.5,tsp
+acamaron,shrimp,1,lb
+acamaron,olive oil,2,tbsp
+acapella chicken wrap,tortilla,1,piece
+acapella chicken wrap,fresh vegetables,0.5,cup
+acapella chicken wrap,tangy sauce,2,tablespoons
+acapella chicken wrap,grilled chicken,1,cup
+acappella,pasta,200,grams
+acappella,parmesan cheese,50,grams
+acappella,cream,100,milliliters
+acappella,garlic,2,cloves
+acappella,mushrooms,150,grams
+acappella benedict,hollandaise sauce,2,tablespoons
+acappella benedict,eggs,2,pieces
+acappella benedict,pancetta,2,slices
+acappella benedict,English muffin,1,piece
+acappella burger,special sauce,2,tablespoons
+acappella burger,bun,1,piece
+acappella burger,beef,1,patty
+acappella burger,cheese,1,slice
+acappella chips,onion powder,0.5,tsp
+acappella chips,salt,1,tsp
+acappella chips,garlic powder,0.5,tsp
+acappella chips,pepper,0.5,tsp
+acappella chips,paprika,0.5,tsp
+acappella chips,olive oil,2,tbsp
+acappella chips,potatoes,2,large
+acappella french toast,cinnamon,1,teaspoon
+acappella french toast,butter,2,tablespoons
+acappella french toast,milk,1,cup
+acappella french toast,sugar,2,tablespoons
+acappella french toast,eggs,2,pieces
+acappella french toast,bread,4,slices
+acappella panini,Prosciutto,2,slices
+acappella panini,Italian bread,2,slices
+acappella panini,Basil leaves,2,leaves
+acappella panini,Olive oil,1,tbsp
+acappella panini,Tomato,2,slices
+acappella panini,Salami,2,slices
+acappella panini,Mozzarella cheese,2,slices
+acappella salad,blueberries,1,cup
+acappella salad,mixed greens,2,cups
+acappella salad,walnuts,1,cup
+acappella salad,balsamic vinaigrette,0.25,cup
+acappella salad,feta cheese,1,cup
+acappella salad,strawberries,1,cup
+acappella wings,chicken wings,12,pieces
+acappella wings,honey,1,cup
+acappella wings,pepper,1,tsp
+acappella wings,soy sauce,1,cup
+acappella wings,brown sugar,2,tbsp
+acappella wings,salt,1,tsp
+acappella wings,garlic,3,cloves
+acappella wings,ginger,1,tbsp
+acappella wings,vinegar,2,tbsp
+acapulco,Olive oil,2,tablespoons
+acapulco,Lime,1,juiced
+acapulco,Cilantro,1,bunch
+acapulco,Pepper,1,teaspoon
+acapulco,Garlic,3,cloves
+acapulco,Onion,1,medium
+acapulco,Fish fillets,300,grams
+acapulco,Tomatoes,3,medium
+acapulco,Shrimp,250,grams
+acapulco,Salt,1,teaspoon
+acapulco blackened tilapia salad,lime,1,juiced
+acapulco blackened tilapia salad,cherry tomatoes,1,cup
+acapulco blackened tilapia salad,avocado,1,sliced
+acapulco blackened tilapia salad,tilapia fillets,2,pieces
+acapulco blackened tilapia salad,blackening seasoning,1,tablespoon
+acapulco blackened tilapia salad,olive oil,2,tablespoons
+acapulco blackened tilapia salad,mixed greens,2,cups
+acapulco boca colorada,bell pepper,1,medium
+acapulco boca colorada,fish fillet,300,grams
+acapulco boca colorada,olive oil,2,tablespoons
+acapulco boca colorada,cilantro,2,tablespoons
+acapulco boca colorada,tomatoes,4,medium
+acapulco boca colorada,shrimp,250,grams
+acapulco boca colorada,lime juice,2,tablespoons
+acapulco boca colorada,salt,1,teaspoon
+acapulco boca colorada,garlic cloves,2,cloves
+acapulco boca colorada,onion,1,medium
+acapulco one fillet,black pepper,0.5,teaspoon
+acapulco one fillet,garlic,2,cloves
+acapulco one fillet,soy sauce,2,tablespoons
+acapulco one fillet,salt,1,teaspoon
+acapulco one fillet,lime juice,1,tablespoon
+acapulco one fillet,olive oil,1,tablespoon
+acapulco one fillet,fish fillet,1,piece
+acapulco parrillada,chorizo sausage,1,lbs
+acapulco parrillada,garlic,4,cloves
+acapulco parrillada,cumin,1,tbsp
+acapulco parrillada,onions,2,pieces
+acapulco parrillada,salt,1,tsp
+acapulco parrillada,black pepper,1,tsp
+acapulco parrillada,chicken thighs,1.5,lbs
+acapulco parrillada,beef steak,2,lbs
+acapulco parrillada,bell peppers,2,pieces
+acapulco parrillada,paprika,2,tbsp
+acapulco parrillada,olive oil,0.5,cup
+acapulco parrillada,lime juice,0.25,cup
+acapulco quesadilla,chicken,1,cup
+acapulco quesadilla,onions,0.5,cup
+acapulco quesadilla,cheese,1,cup
+acapulco quesadilla,peppers,0.5,cup
+acapulco quesadilla,salsa,0.25,cup
+acapulco quesadilla,guacamole,0.25,cup
+acapulco salad,avocado,1,sliced
+acapulco salad,olive oil,1,tablespoon
+acapulco salad,pepper,0.25,teaspoon
+acapulco salad,mixed greens,2,cups
+acapulco salad,lime juice,2,tablespoons
+acapulco salad,tomatoes,1,diced
+acapulco salad,red onion,0.5,sliced
+acapulco salad,salt,0.5,teaspoon
+acapulco salad,cilantro,2,tablespoons
+acapulco salmon,salmon,1,lb
+acapulco salmon,onion,1,small
+acapulco salmon,tomatoes,2,medium
+acapulco salmon,cilantro,0.5,cup
+acapulco salmon,herbs,2,tbsp
+acapulco salmon,lime juice,2,tbsp
+acapulco salmon,spices,1,tbsp
+acapulco soup,corn,1,cup
+acapulco soup,cilantro,0.5,cup
+acapulco soup,onion,1,medium
+acapulco soup,tomatoes,2,cups
+acapulco soup,chicken broth,4,cups
+acapulco soup,cooked chicken,1,cup
+acapulco soup,garlic,2,cloves
+acapulco soup,tortilla strips,0.5,cup
+acapulco soup,bell pepper,1,medium
+acapulco soup,avocado,1,medium
+acapulco soup,lime juice,2,tablespoons
+acapulco steak,tomato,1,medium
+acapulco steak,onion,0.5,cup
+acapulco steak,soy sauce,1,tbsp
+acapulco steak,avocado,1,ripe
+acapulco steak,garlic,2,cloves
+acapulco steak,lime juice,2,tbsp
+acapulco steak,steak,1,lb
+acapulco tacos,garlic,2,cloves
+acapulco tacos,tomatoes,2,pieces
+acapulco tacos,tortillas,8,pieces
+acapulco tacos,jalapeno,1,piece
+acapulco tacos,fish fillet,200,grams
+acapulco tacos,shrimp,200,grams
+acapulco tacos,avocado,1,piece
+acapulco tacos,olive oil,2,tablespoons
+acapulco tacos,onion,1,piece
+acapulco tacos,lime,1,piece
+acapulco tacos,cilantro,1,bunch
+acapulco trading,Onion,1,medium
+acapulco trading,Bell peppers,2,pieces
+acapulco trading,Garlic,2,cloves
+acapulco trading,Cilantro,2,tbsp
+acapulco trading,Cumin,1,tsp
+acapulco trading,Paprika,1,tsp
+acapulco trading,Tomatoes,2,medium
+acapulco trading,Chicken,1,lb
+acapulco trading,Lime,1,juiced
+acapulco trading,Pepper,1,tsp
+acapulco trading,Salt,1,tsp
+acapulco traditional,cilantro,1,bunch
+acapulco traditional,shrimp,250,g
+acapulco traditional,fish,200,g
+acapulco traditional,tomatoes,2,medium
+acapulco traditional,citrus (lime or lemon),1,medium
+acapulco traditional,onions,1,medium
+acapulco two fillets,lime juice,2,tablespoons
+acapulco two fillets,fish fillets,2,pieces
+acapulco two fillets,cilantro,2,tablespoons
+acapulco two fillets,salt,1,teaspoon
+acapulco two fillets,tomatoes,2,medium
+acapulco two fillets,garlic cloves,2,cloves
+acapulco two fillets,onion,1,small
+acapulco two fillets,black pepper,1,teaspoon
+acapulco two fillets,olive oil,2,tablespoons
+acarnitas,oregano,1,tsp
+acarnitas,orange,1,
+acarnitas,garlic,4,cloves
+acarnitas,pork shoulder,2,lbs
+acarnitas,bay leaves,2,
+acarnitas,onion,1,
+acarnitas,salt,1,tsp
+acarnitas,pepper,1,tsp
+acarnitas,cumin,1,tsp
+acc,seaweed,1,sheet
+acc,mirin,1,tablespoon
+acc,dashi broth,1,cup
+acc,bonito flakes,1,tablespoon
+acc,sake,1,tablespoon
+acc,green onions,2,stalks
+acc,soy sauce,2,tablespoons
+acc roll,avocado,1,piece
+acc roll,sushi rice,1,cup
+acc roll,cucumber,0.5,piece
+acc roll,crab meat,100,grams
+acc roll,seaweed,2,sheets
+acc smash,cherry tomatoes,6,pieces
+acc smash,balsamic glaze,1,tablespoon
+acc smash,avocado,1,piece
+acc smash,feta cheese,50,grams
+accidental fish and shrimp,fish,200,g
+accidental fish and shrimp,shrimp,150,g
+acciughe bianche,vinegar,2,tablespoons
+acciughe bianche,olive oil,3,tablespoons
+acciughe bianche,white anchovies,200,grams
+accordini viole recioto della valpolicella classico veneto italy,Accordini Viole Recioto della Valpolicella Classico,1,bottle
+accra,vegetable oil,2,cups
+accra,salt,1,teaspoon
+accra,ginger,1,thumb-sized piece
+accra,onion,1,medium
+accra,garlic,2,cloves
+accra,scotch bonnet pepper,1,small
+accra,black-eyed peas,2,cups
+accra fritters,spices,1,tsp
+accra fritters,black-eyed peas,1,cup
+accra fritters,onion,1,medium
+accras,hot pepper,1,optional
+accras,salted codfish,1,cup
+accras,scallions,3,stalks
+accras,garlic,2,cloves
+accras,all-purpose flour,1.5,cups
+accras,thyme,1,tsp
+accras,water,0.5,cup
+accras,oil,2,cups
+ace,Green onions,2,stalks
+ace,Sesame oil,1,tsp
+ace,Mirin,1,tbsp
+ace,Tofu,200,g
+ace,Soy sauce,2,tbsp
+ace,Bonito flakes,1,tbsp
+ace acai,granola,0.5,cup
+ace acai,coconut flakes,2,tablespoons
+ace acai,honey,1,tablespoon
+ace acai,acai berries,1,cup
+ace acai,bananas,2,pieces
+ace acai,mixed fruits,1,cup
+ace next door west coast session ipa,hops,2,oz
+ace next door west coast session ipa,water,5,gal
+ace next door west coast session ipa,yeast,1,packet
+ace next door west coast session ipa,malt,6,lb
+ace pear cider,yeast,5,g
+ace pear cider,pear juice,500,ml
+ace pear cider,sugar,50,g
+aceitunas,olives,200,grams
+aceitunas de la casa con guindilla vasca,olive oil,2,tbsp
+aceitunas de la casa con guindilla vasca,Basque chili peppers,2,pieces
+aceitunas de la casa con guindilla vasca,lemon peel,1,strip
+aceitunas de la casa con guindilla vasca,olives,200,g
+aceitunas de la casa con guindilla vasca,garlic,1,clove
+aceitunas la mancha,olive oil,2,tablespoons
+aceitunas la mancha,thyme,1,teaspoon
+aceitunas la mancha,garlic,2,cloves
+aceitunas la mancha,olives,200,grams
+aceitunas la mancha,lemon zest,1,teaspoon
+acentor rioja spain,paprika,1,tsp
+acentor rioja spain,chorizo,150,g
+acentor rioja spain,tomatoes,2,medium
+acentor rioja spain,garlic,3,cloves
+acentor rioja spain,onion,1,large
+acentor rioja spain,beef,250,g
+acentor rioja spain,bay leaves,2,pieces
+acentor rioja spain,olive oil,2,tbsp
+acentor rioja spain,bell pepper,1,large
+acentor rioja spain,red wine,200,ml
+acer opalus,spices,2,tablespoons
+acer opalus,vegetables,300,grams
+acer opalus,rice,1,cup
+acer opalus,herbs,1,cup
+acer opalus,lamb meat,500,grams
+acerola,acerola,1,cup
+acevichado,aji amarillo paste,2,tbsp
+acevichado,lettuce,4,leaves
+acevichado,corn,1,"ear, boiled and sliced"
+acevichado,sweet potato,1,"small, boiled and sliced"
+acevichado,garlic,2,"cloves, minced"
+acevichado,lime juice,1,cup
+acevichado,pepper,1,tsp
+acevichado,cilantro,1,"tbsp, chopped"
+acevichado,red onion,1,"small, thinly sliced"
+acevichado,salt,1,tsp
+acevichado,fish fillets,500,g
+acevichado roll,fresh fish,150,g
+acevichado roll,spicy mayo sauce,2,tbsp
+acevichado roll,sushi rice,1,cup
+acevichado roll,nori seaweed,2,sheets
+acevichado roll,cucumber,1,piece
+acevichado roll,avocado,1,piece
+acg caesar,croutons,0.5,cup
+acg caesar,Caesar dressing,3,tablespoons
+acg caesar,romaine lettuce,2,cups
+acg caesar,Parmesan cheese,0.25,cup
+achaar,red chili powder,2,tsp
+achaar,vinegar,50,ml
+achaar,mustard seeds,1,tbsp
+achaar,vegetables,500,g
+achaar,salt,1,tsp
+achaar,fenugreek seeds,1,tbsp
+achaar,mustard oil,100,ml
+achaar,turmeric powder,1,tsp
+achaar pickle,vegetables or fruits,500,g
+achaar pickle,spices,50,g
+achaar pickle,oil,100,ml
+achaari,coriander leaves,2,tablespoons
+achaari,potatoes,2,medium
+achaari,turmeric powder,1,teaspoon
+achaari,pickling spices,1,tablespoon
+achaari,red chili powder,1,teaspoon
+achaari,salt,1,teaspoon
+achaari,onion,1,large
+achaari,green chilies,2,pieces
+achaari,tomatoes,2,medium
+achaari,mustard oil,2,tablespoons
+achar,vegetables,500,g
+achar,spices,15,g
+achar,salt,10,g
+achar,vinegar,200,ml
+achar,sugar,50,g
+achar gosht,lemon juice,2,tablespoons
+achar gosht,vinegar,3,tablespoons
+achar gosht,pickling spices,2,tablespoons
+achar gosht,meat,500,grams
+achari,red chili powder,2,tbsp
+achari,salt,1,tsp
+achari,turmeric powder,1,tsp
+achari,fennel seeds,1,tsp
+achari,vinegar,1,cup
+achari,fenugreek seeds,1,tsp
+achari,mango,2,cups
+achari,nigella seeds,1,tsp
+achari,mustard oil,1,cup
+achari,mustard seeds,1,tbsp
+achari aloo kati roll with fries,paratha bread,2,pieces
+achari aloo kati roll with fries,fries,1,serving
+achari aloo kati roll with fries,pickling spices,1,tbsp
+achari aloo kati roll with fries,potatoes,2,medium
+achari baigan,fenugreek seeds,1,tsp
+achari baigan,garam masala,1,tsp
+achari baigan,tomato,2,medium
+achari baigan,fennel seeds,1,tsp
+achari baigan,green chili,2,chopped
+achari baigan,salt,1,tsp
+achari baigan,mustard seeds,1,tsp
+achari baigan,ginger,1,inch
+achari baigan,onion,1,medium
+achari baigan,oil,2,tbsp
+achari baigan,red chili powder,1,tsp
+achari baigan,coriander powder,1,tsp
+achari baigan,cumin powder,1,tsp
+achari baigan,eggplant,2,medium
+achari baigan,turmeric powder,1,tsp
+achari baigan,garlic,4,cloves
+achari began curry,ginger,1,inch piece
+achari began curry,red chili powder,1,tsp
+achari began curry,coriander powder,1,tbsp
+achari began curry,garlic,4,cloves
+achari began curry,mustard seeds,1,tsp
+achari began curry,salt,1,tsp
+achari began curry,tomatoes,2,medium
+achari began curry,turmeric powder,1,tsp
+achari began curry,onion,1,large
+achari began curry,eggplants,500,grams
+achari began curry,cumin seeds,1,tsp
+achari began curry,fenugreek seeds,1,tsp
+achari began curry,fennel seeds,1,tsp
+achari began curry,oil,2,tbsp
+achari chicken karahi,yogurt,1,cup
+achari chicken karahi,ginger garlic paste,2,tablespoons
+achari chicken karahi,tomatoes,3,medium
+achari chicken karahi,chicken,500,grams
+achari chicken karahi,oil,3,tablespoons
+achari chicken karahi,pickling spices,2,tablespoons
+achari chicken karahi,green chilies,2,sliced
+achari chicken karahi,coriander leaves,1,tablespoon
+achari chicken korma,chicken,500,grams
+achari chicken korma,achari masala,2,tablespoons
+achari chicken korma,spices,1,tablespoon
+achari chicken korma,cream,1,cup
+achari chicken korma,yogurt,1,cup
+achari chicken paratha taco,Chicken,250,grams
+achari chicken paratha taco,Tomato,1,"medium, diced"
+achari chicken paratha taco,Green Chilies,2,chopped
+achari chicken paratha taco,Lemon Juice,1,tablespoon
+achari chicken paratha taco,Achari Masala,2,tablespoons
+achari chicken paratha taco,Paratha,4,pieces
+achari chicken paratha taco,Cilantro,2,"tablespoons, chopped"
+achari chicken paratha taco,Onion,1,"medium, sliced"
+achari chicken paratha taco,Yogurt,100,grams
+achari chicken tacos,pickled onions,1,cup
+achari chicken tacos,cilantro,1,bunch
+achari chicken tacos,chicken,500,grams
+achari chicken tacos,achari spice mix,2,tablespoons
+achari chicken tacos,yogurt,100,grams
+achari chicken tacos,taco shells,8,
+achari chicken tikka,red chili powder,1,teaspoon
+achari chicken tikka,salt,1,teaspoon
+achari chicken tikka,lemon juice,2,tablespoons
+achari chicken tikka,ginger garlic paste,2,tablespoons
+achari chicken tikka,mustard oil,2,tablespoons
+achari chicken tikka,turmeric powder,1,teaspoon
+achari chicken tikka,chicken,500,grams
+achari chicken tikka,pickling spices,2,tablespoons
+achari chicken tikka,garam masala,1,teaspoon
+achari chicken tikka,yogurt,1,cup
+achari chicken wings,"pickling spices (fenugreek seeds, fennel seeds, mustard seeds, nigella seeds)",1,tablespoon
+achari chicken wings,mustard oil,2,tablespoons
+achari chicken wings,red chili powder,1,teaspoon
+achari chicken wings,lemon juice,2,tablespoons
+achari chicken wings,chicken wings,12,pieces
+achari chicken wings,salt,1,teaspoon
+achari chicken wings,turmeric powder,1,teaspoon
+achari chicken wings,yogurt,1,cup
+achari chicken wings,ginger-garlic paste,1,tablespoon
+achari eggplant,red chili powder,1,teaspoon
+achari eggplant,mustard oil,2,tablespoons
+achari eggplant,fennel seeds,1,teaspoon
+achari eggplant,mustard seeds,1,teaspoon
+achari eggplant,tomato,1,medium
+achari eggplant,ginger,1,inch piece
+achari eggplant,turmeric powder,1,teaspoon
+achari eggplant,eggplant,2,pieces
+achari eggplant,nigella seeds,1,teaspoon
+achari eggplant,garlic,4,cloves
+achari eggplant,green chilies,2,pieces
+achari eggplant,fenugreek seeds,1,teaspoon
+achari gohst,mustard seeds,1,tablespoon
+achari gohst,fenugreek seeds,1,teaspoon
+achari gohst,meat,500,grams
+achari gohst,dried mango powder (amchur),2,teaspoons
+achari goshat karahi,salt,1,teaspoon
+achari goshat karahi,green chilies,4,chopped
+achari goshat karahi,tomatoes,3,medium
+achari goshat karahi,onion,1,large
+achari goshat karahi,red chili powder,1.5,teaspoon
+achari goshat karahi,turmeric powder,0.5,teaspoon
+achari goshat karahi,pickled spices,2,tablespoons
+achari goshat karahi,oil,4,tablespoons
+achari goshat karahi,cumin powder,1,teaspoon
+achari goshat karahi,mutton,500,grams
+achari goshat karahi,coriander powder,1.5,teaspoon
+achari goshat karahi,garlic,4,cloves
+achari goshat karahi,yogurt,1,cup
+achari goshat karahi,ginger,1,inch piece
+achari jhinga,Turmeric Powder,1,teaspoon
+achari jhinga,Fresh Coriander,2,tablespoons
+achari jhinga,Achari Masala,2,tablespoons
+achari jhinga,Cumin Powder,1,teaspoon
+achari jhinga,Yogurt,1,cup
+achari jhinga,Prawns,500,grams
+achari jhinga,Onion,1,"large, sliced"
+achari jhinga,Green Chilies,2,sliced
+achari jhinga,Tomato,2,"medium, chopped"
+achari jhinga,Salt,1,teaspoon
+achari jhinga,Mustard Oil,3,tablespoons
+achari jhinga,Ginger-Garlic Paste,1,tablespoon
+achari jhinga,Coriander Powder,1.5,teaspoons
+achari kadhai,tomatoes,2,medium
+achari kadhai,mustard oil,2,tablespoons
+achari kadhai,cumin seeds,1,teaspoon
+achari kadhai,coriander powder,1,teaspoon
+achari kadhai,yogurt,1,cup
+achari kadhai,turmeric powder,1,teaspoon
+achari kadhai,fresh coriander leaves,2,tablespoons
+achari kadhai,salt,1,teaspoon
+achari kadhai,green chilies,2,chopped
+achari kadhai,red chili powder,1,teaspoon
+achari kadhai,garlic,4,cloves
+achari kadhai,onion,1,large
+achari kadhai,fenugreek seeds,1,teaspoon
+achari kadhai,chicken,500,grams
+achari kadhai,garam masala,1,teaspoon
+achari kadhai,ginger,1,inch piece
+achari khumbh kulcha,pickling spices,2,tablespoons
+achari khumbh kulcha,mushrooms,250,grams
+achari khumbh kulcha,kulcha bread,4,pieces
+achari khumbh kulcha,yogurt,100,grams
+achari lamb,turmeric powder,1,teaspoon
+achari lamb,yogurt,100,grams
+achari lamb,mustard seeds,1,tablespoon
+achari lamb,ginger,1,"inch piece, grated"
+achari lamb,onion,1,"large, sliced"
+achari lamb,tomato,2,"medium, chopped"
+achari lamb,lamb,500,grams
+achari lamb,fennel seeds,1,tablespoon
+achari lamb,garlic,4,"cloves, minced"
+achari lamb,salt,1,teaspoon
+achari lamb,red chili powder,1,teaspoon
+achari lamb,oil,2,tablespoons
+achari lamb,coriander seeds,1,tablespoon
+achari lamb,fenugreek seeds,1,tablespoon
+achari lamb,cumin seeds,1,tablespoon
+achari lamb tikka,ginger garlic paste,1,tablespoon
+achari lamb tikka,garam masala,1,teaspoon
+achari lamb tikka,turmeric powder,1,teaspoon
+achari lamb tikka,mustard oil,2,tablespoons
+achari lamb tikka,lemon juice,2,tablespoons
+achari lamb tikka,lamb,500,grams
+achari lamb tikka,pickling spices,2,tablespoons
+achari lamb tikka,salt,1,teaspoon
+achari lamb tikka,red chili powder,1,teaspoon
+achari lamb tikka,yogurt,150,grams
+achari murgh,turmeric powder,1,tsp
+achari murgh,salt,1,tsp
+achari murgh,onion,1,large
+achari murgh,ginger-garlic paste,2,tbsp
+achari murgh,mustard seeds,1,tbsp
+achari murgh,fennel seeds,1,tsp
+achari murgh,tomato,2,medium
+achari murgh,fenugreek seeds,1,tsp
+achari murgh,coriander powder,1,tsp
+achari murgh,oil,2,tbsp
+achari murgh,garam masala,1,tsp
+achari murgh,cumin powder,1,tsp
+achari murgh,red chili powder,1,tsp
+achari murgh,chicken,500,grams
+achari murgh,yogurt,1,cup
+achari naan,sugar,1,tbsp
+achari naan,cumin seeds,1,tsp
+achari naan,water,1,cup
+achari naan,achari masala,2,tbsp
+achari naan,yogurt,1,cup
+achari naan,onion seeds,1,tsp
+achari naan,fenugreek seeds,1,tsp
+achari naan,fennel seeds,1,tsp
+achari naan,all-purpose flour,2,cups
+achari naan,oil,2,tbsp
+achari naan,salt,1,tsp
+achari naan,active dry yeast,1,packet
+achari naan,mustard seeds,1,tsp
+achari paneer,green chili,1,small
+achari paneer,turmeric powder,0.5,teaspoon
+achari paneer,onion,1,medium
+achari paneer,pickling spices,2,tablespoons
+achari paneer,cumin powder,1,teaspoon
+achari paneer,tomato,1,medium
+achari paneer,ginger-garlic paste,1,tablespoon
+achari paneer,yogurt,100,grams
+achari paneer,paneer,250,grams
+achari paneer,coriander powder,1,teaspoon
+achari paneer,red chili powder,0.5,teaspoon
+achari paneer,salt,1,teaspoon
+achari paneer,mustard oil,2,tablespoons
+achari paneer tacos,onion,1,medium
+achari paneer tacos,ginger-garlic paste,1,teaspoon
+achari paneer tacos,oil,2,tablespoons
+achari paneer tacos,tomato,1,medium
+achari paneer tacos,achari masala,2,tablespoons
+achari paneer tacos,coriander leaves,2,tablespoons
+achari paneer tacos,taco shells,4,pieces
+achari paneer tacos,paneer,200,grams
+achari paneer tacos,yogurt,50,grams
+achari paneer tikka,salt,1,teaspoon
+achari paneer tikka,lemon juice,1,tablespoon
+achari paneer tikka,bell peppers,1,"medium, diced"
+achari paneer tikka,garam masala,1,teaspoon
+achari paneer tikka,onion,1,"medium, diced"
+achari paneer tikka,turmeric powder,1,teaspoon
+achari paneer tikka,yogurt,100,grams
+achari paneer tikka,paneer,250,grams
+achari paneer tikka,ginger-garlic paste,1,tablespoon
+achari paneer tikka,pickle masala,2,tablespoons
+achari paneer tikka,mustard oil,2,tablespoons
+achari paneer tikka,red chili powder,1,teaspoon
+achari shrimp bhel,puffed rice,1,cup
+achari shrimp bhel,pickled spices,2,tablespoons
+achari shrimp bhel,shrimp,200,grams
+achari soya chaap,pickling spices,2,tablespoons
+achari soya chaap,red chili powder,1,teaspoon
+achari soya chaap,turmeric powder,1,teaspoon
+achari soya chaap,ginger-garlic paste,1,tablespoon
+achari soya chaap,mustard oil,2,tablespoons
+achari soya chaap,coriander powder,1,teaspoon
+achari soya chaap,cumin powder,1,teaspoon
+achari soya chaap,soya chaap,500,grams
+achari soya chaap,salt,1,teaspoon
+achari soya chaap,yogurt,1,cup
+achari soya chaap,tomato,2,medium
+achari soya chaap,fresh coriander leaves,2,tablespoons
+achari soya chaap,onion,1,large
+achari tawa murgh,coriander leaves,2,tablespoons
+achari tawa murgh,chicken,500,grams
+achari tawa murgh,pickling spices,2,tablespoons
+achari tawa murgh,ginger garlic paste,2,tablespoons
+achari tawa murgh,tomato,2,medium
+achari tawa murgh,onion,1,large
+achari tawa murgh,mustard oil,3,tablespoons
+achari tawa murgh,salt,1,teaspoon
+achari tawa murgh,green chili,2,medium
+achari tawa murgh,yogurt,100,grams
+achari tikka,mustard oil,2,tablespoons
+achari tikka,ginger garlic paste,2,tablespoons
+achari tikka,pickle masala,3,tablespoons
+achari tikka,chicken,500,grams
+achari tikka,yogurt,100,grams
+achari tikka,salt,1,teaspoon
+achari tikka,lemon juice,2,tablespoons
+acharian khachapuri,herbs,20,g
+acharian khachapuri,pickled vegetables,100,g
+acharian khachapuri,bread dough,300,g
+acharian khachapuri,cheese,200,g
+achával ferrer malbec mendoza argentina,Achával Ferrer Malbec,1,bottle
+acheese burrito bean taco rice and beans,taco seasoning,2,tbsp
+acheese burrito bean taco rice and beans,tortilla,1,piece
+acheese burrito bean taco rice and beans,rice,1,cup
+acheese burrito bean taco rice and beans,burrito beans,1,can
+acheese burrito bean taco rice and beans,cheese,1,cup
+acheke,oil,2,tablespoons
+acheke,salt,1,teaspoon
+acheke,sugar,1,tablespoon
+acheke,cassava,2,cups
+achicken bacon lettuce tomato,lettuce,2,leaves
+achicken bacon lettuce tomato,chicken,1,piece
+achicken bacon lettuce tomato,bacon,2,slices
+achicken bacon lettuce tomato,tomato,1,slice
+achicken yat gat mein,garlic,2,cloves
+achicken yat gat mein,ginger,1,teaspoon
+achicken yat gat mein,vegetable oil,2,tablespoons
+achicken yat gat mein,egg noodles,150,grams
+achicken yat gat mein,carrots,1,medium
+achicken yat gat mein,chicken,200,grams
+achicken yat gat mein,green onions,2,stalks
+achicken yat gat mein,soy sauce,2,tablespoons
+achicken yat gat mein,oyster sauce,1,tablespoon
+achilles heel souvlaki sandwich,fresh vegetables,100,grams
+achilles heel souvlaki sandwich,tzatziki sauce,50,grams
+achilles heel souvlaki sandwich,grilled meat,200,grams
+achilles heel souvlaki sandwich,pita bread,1,piece
+achilles regular,chicken,200,grams
+achilles regular,bell peppers,100,grams
+achilles regular,yogurt,50,grams
+achilles regular,zucchini,100,grams
+achilles tuesday,rosemary,1,tsp
+achilles tuesday,olive oil,2,tbsp
+achilles tuesday,thyme,1,tsp
+achilles tuesday,onion,1,medium
+achilles tuesday,zucchini,1,medium
+achilles tuesday,garlic,3,cloves
+achilles tuesday,lamb,1,lb
+achilles tuesday,red bell pepper,1,large
+achiote chicken,Oregano,1,teaspoon
+achiote chicken,Chicken,4,pieces
+achiote chicken,Lime juice,1,cup
+achiote chicken,Orange juice,1,cup
+achiote chicken,Salt,1,teaspoon
+achiote chicken,Achiote paste,2,tablespoons
+achiote chicken,Cumin,1,teaspoon
+achiote chicken,Garlic,3,cloves
+achiote chicken,Pepper,1,teaspoon
+achiote fish,salt,1,teaspoon
+achiote fish,olive oil,2,tablespoons
+achiote fish,pepper,1,teaspoon
+achiote fish,paprika,1,teaspoon
+achiote fish,lime juice,1,cup
+achiote fish,garlic,3,cloves
+achiote fish,cumin,1,teaspoon
+achiote fish,fish fillets,4,pieces
+achiote fish,achiote paste,2,tablespoons
+achiote fish,orange juice,1,cup
+achiote hanger steak fajitas,paprika,1,tsp
+achiote hanger steak fajitas,garlic,2,cloves
+achiote hanger steak fajitas,hanger steak,1,lb
+achiote hanger steak fajitas,pepper,1,tsp
+achiote hanger steak fajitas,cumin,1,tsp
+achiote hanger steak fajitas,salt,1,tsp
+achiote hanger steak fajitas,lime,1,juiced
+achiote hanger steak fajitas,tortillas,8,small
+achiote hanger steak fajitas,bell peppers,2,sliced
+achiote hanger steak fajitas,achiote paste,2,tbsp
+achiote hanger steak fajitas,onion,1,sliced
+achiote orange glazed pork,orange juice,1,cup
+achiote orange glazed pork,pork,1,lb
+achiote orange glazed pork,garlic,2,cloves
+achiote orange glazed pork,salt,1,tsp
+achiote orange glazed pork,pepper,1,tsp
+achiote orange glazed pork,achiote paste,2,tbsp
+achiote pork belly,lime juice,2,tbsp
+achiote pork belly,pepper,1,tsp
+achiote pork belly,garlic,3,cloves
+achiote pork belly,salt,1,tsp
+achiote pork belly,cumin,1,tsp
+achiote pork belly,pork belly,1,lb
+achiote pork belly,achiote paste,2,tbsp
+achiote pork belly,orange juice,1,cup
+achiote pork belly,paprika,1,tsp
+achiote roast chicken,chicken,1,whole
+achiote roast chicken,oregano,1,teaspoon
+achiote roast chicken,citrus juice (orange and lime),1,cup
+achiote roast chicken,salt,1,teaspoon
+achiote roast chicken,achiote paste,2,tablespoons
+achiote roast chicken,cumin,1,teaspoon
+achiote roast chicken,garlic,3,cloves
+achiote roast chicken,pepper,1,teaspoon
+achiote shrimp tacos,avocado,1,ripe
+achiote shrimp tacos,shrimp,1,lb
+achiote shrimp tacos,cilantro,0.5,cup
+achiote shrimp tacos,tortillas,8,count
+achiote shrimp tacos,lime,1,juiced
+achiote shrimp tacos,achiote paste,2,tbsp
+achma,thin dough,500,g
+achma,butter,100,g
+achma,egg,1,
+achma,cheese,400,g
+achma,milk,200,ml
+achma,salt,1,tsp
+achorizo,pork,500,grams
+achorizo,paprika,2,tablespoons
+achorizo,vinegar,1,tablespoon
+achorizo,salt,1,teaspoon
+achorizo,garlic,2,cloves
+achu,palm oil,1,cup
+achu,sugar,1,cup
+achu,fermented cassava,1,cup
+achu,coconut milk,1,cup
+achu,fermented corn,2,cups
+achu dry and assorted beef,tomato paste,2,tablespoons
+achu dry and assorted beef,assorted beef,500,grams
+achu dry and assorted beef,pepper,1,teaspoon
+achu dry and assorted beef,garlic,3,cloves
+achu dry and assorted beef,salt,1,teaspoon
+achu dry and assorted beef,achu,2,cups
+achu dry and assorted beef,onions,1,medium
+achu dry and assorted beef,vegetable oil,3,tablespoons
+achu dry and assorted beef,ginger,1,thumb-sized piece
+achu dry beef with egusi,dry beef,250,g
+achu dry beef with egusi,egusi,100,g
+achu dry beef with njamajama,Njamajama,300,g
+achu dry beef with njamajama,dry beef,200,g
+achu soup and jama,palm nut extract,2,cups
+achu soup and jama,cocoyam or yam,2,pieces
+achu soup and jama,vegetables,1,cup
+achu soup and jama,meat,1,cup
+acid blondie,lemon zest,1,tbsp
+acid blondie,lemon juice,2,tbsp
+acid blondie,eggs,2,large
+acid blondie,butter,1,cup
+acid blondie,all-purpose flour,1.5,cups
+acid blondie,vanilla extract,1,tsp
+acid blondie,brown sugar,1.5,cups
+acid kuba,ground beef,1,lb
+acid kuba,tomato sauce,1,can
+acid kuba,garlic,2,cloves
+acid kuba,salt,1,tsp
+acid kuba,rice,1,cup
+acid kuba,lemon juice,2,tbsp
+acid kuba,black pepper,0.5,tsp
+acid kuba,onion,1,medium
+acid kuba,olive oil,2,tbsp
+acid shooter,Vodka,1,oz
+acid shooter,Lemon juice,1.5,oz
+acid shooter,Simple syrup,0.5,oz
+acient vine zinfandel,Ancient Vine Zinfandel,1,bottle
+acili ezme,Red pepper flakes,1,teaspoon
+acili ezme,Lemon juice,2,tablespoons
+acili ezme,Red bell peppers,2,large
+acili ezme,Tomatoes,3,medium
+acili ezme,Red onion,1,medium
+acili ezme,Parsley,1,bunch
+acili ezme,Salt,1,teaspoon
+acili ezme,Garlic cloves,2,cloves
+acili ezme,Olive oil,3,tablespoons
+acili ezme,Green bell peppers,2,large
+acili salmon sandwich,chili paste,2,tablespoons
+acili salmon sandwich,avocado,1,sliced
+acili salmon sandwich,salmon,150,grams
+acili salmon sandwich,soy sauce,1,tablespoon
+acili salmon sandwich,bread,2,slices
+acinum amarone della valpolicella veneto italy,Acinum Amarone della Valpolicella,1,bottle
+acinum prosecco italy,Acinum Prosecco,1,bottle
+ackee,saltfish,1,cup
+ackee,ackee,2,cups
+ackee and cod fish,thyme,1,tsp
+ackee and cod fish,scotch bonnet pepper,1,whole
+ackee and cod fish,onion,1,medium
+ackee and cod fish,ackee,2,cups
+ackee and cod fish,coconut oil,2,tbsp
+ackee and cod fish,cod fish,1,lb
+ackee and cod fish,tomato,1,medium
+ackee and codfish,Tomato,1,medium
+ackee and codfish,Scotch bonnet pepper,1,whole
+ackee and codfish,Salted codfish,1,lb
+ackee and codfish,Oil,2,tbsp
+ackee and codfish,Onion,1,medium
+ackee and codfish,Black pepper,1,tsp
+ackee and codfish,Thyme,1,tsp
+ackee and codfish,Ackee,2,cups
+ackee and codfish meal,Scotch Bonnet Pepper,1,whole
+ackee and codfish meal,Salted Codfish,1,lb
+ackee and codfish meal,Onion,1,medium
+ackee and codfish meal,Thyme,1,tsp
+ackee and codfish meal,Ackee,2,cups
+ackee and codfish meal,Tomato,1,medium
+ackee and codfish meal,Black Pepper,1,tsp
+ackee and codfish meal,Oil,2,tbsp
+ackee and salt fish,ackee,2,cups
+ackee and salt fish,scotch bonnet pepper,1,whole
+ackee and salt fish,thyme,1,tsp
+ackee and salt fish,tomato,2,medium
+ackee and salt fish,oil,2,tbsp
+ackee and salt fish,onion,1,medium
+ackee and salt fish,salted codfish,1,lb
+ackee and salt fish,black pepper,1,tsp
+ackee and salt fish breakfast,salted codfish,1,cup
+ackee and salt fish breakfast,thyme,1,teaspoon
+ackee and salt fish breakfast,scotch bonnet pepper,1,whole
+ackee and salt fish breakfast,black pepper,1,teaspoon
+ackee and salt fish breakfast,oil,2,tablespoons
+ackee and salt fish breakfast,garlic,2,cloves
+ackee and salt fish breakfast,ackee,2,cups
+ackee and salt fish breakfast,onion,1,medium
+ackee and salt fish breakfast,tomato,1,medium
+ackee and saltfish,black pepper,0.5,tsp
+ackee and saltfish,garlic,2,cloves
+ackee and saltfish,tomato,1,medium
+ackee and saltfish,onion,1,medium
+ackee and saltfish,thyme,1,tsp
+ackee and saltfish,scotch bonnet pepper,1,whole
+ackee and saltfish,oil,2,tbsp
+ackee and saltfish,ackee fruit,2,cans
+ackee and saltfish,salted codfish,1,lb
+ackee and saltfish egg rolls,saltfish,1,cup
+ackee and saltfish egg rolls,oil,2,cups
+ackee and saltfish egg rolls,ackee,1,cup
+ackee and saltfish egg rolls,egg roll wrappers,12,pieces
+ackee and saltfish supersize,garlic,2,cloves
+ackee and saltfish supersize,salted codfish,1,lb
+ackee and saltfish supersize,ackee fruit,2,cans
+ackee and saltfish supersize,oil,2,tbsp
+ackee and saltfish supersize,black pepper,1,tsp
+ackee and saltfish supersize,tomato,2,medium
+ackee and saltfish supersize,thyme,1,tsp
+ackee and saltfish supersize,onion,1,medium
+ackee and saltfish supersize,scotch bonnet pepper,1,whole
+ackee and saltfish tostones,oil,2,tbsp
+ackee and saltfish tostones,tomato,1,medium
+ackee and saltfish tostones,plantains,2,large
+ackee and saltfish tostones,salted codfish,1,cup
+ackee and saltfish tostones,scotch bonnet pepper,1,optional
+ackee and saltfish tostones,garlic,2,cloves
+ackee and saltfish tostones,ackee fruit,1,can
+ackee and saltfish tostones,black pepper,1,tsp
+ackee and saltfish tostones,thyme,1,tsp
+ackee and saltfish tostones,salt,1,tsp
+ackee and saltfish tostones,onion,1,medium
+ackee and saltfish with fried dumplings,onion,1,medium
+ackee and saltfish with fried dumplings,ackee fruit,2,cans
+ackee and saltfish with fried dumplings,tomato,2,medium
+ackee and saltfish with fried dumplings,salted codfish,1,lb
+ackee and saltfish with fried dumplings,thyme,1,tsp
+ackee and saltfish with fried dumplings,oil,2,tbsp
+ackee and saltfish with fried dumplings,dumpling mix,1,pack
+ackee and saltfish with fried dumplings,scotch bonnet pepper,1,optional
+ackee and saltfish with fried dumplings,garlic,2,cloves
+ackee and vegetables in tomato sauce,Onion,1,medium
+ackee and vegetables in tomato sauce,Olive oil,2,tablespoons
+ackee and vegetables in tomato sauce,Mixed vegetables,1.5,cups
+ackee and vegetables in tomato sauce,Tomato sauce,1,cup
+ackee and vegetables in tomato sauce,Ackee,2,cups
+ackee and vegetables in tomato sauce,Garlic,2,cloves
+ackee and vegetables in tomato sauce,Black pepper,0.5,teaspoon
+ackee and vegetables in tomato sauce,Salt,1,teaspoon
+ackee breakfast,saltfish,1,cup
+ackee breakfast,spices,1,tbsp
+ackee breakfast,tomatoes,2,medium
+ackee breakfast,ackee fruit,2,cups
+ackee breakfast,onions,1,medium
+ackee fry dumplin,Ackee fruit,1,cup
+ackee fry dumplin,Water,1,cup
+ackee fry dumplin,Salt,1,tsp
+ackee fry dumplin,Oil,1,cup
+ackee fry dumplin,Flour,2,cups
+ackee with saltfish,scotch bonnet pepper,1,whole
+ackee with saltfish,cooking oil,2,tbsp
+ackee with saltfish,ackee,2,cups
+ackee with saltfish,tomato,1,medium
+ackee with saltfish,thyme,1,tsp
+ackee with saltfish,onion,1,medium
+ackee with saltfish,black pepper,1,tsp
+ackee with saltfish,garlic,2,cloves
+ackee with saltfish,salted codfish,1,lb
+acma domatesli,butter,1,cup
+acma domatesli,sugar,1,teaspoon
+acma domatesli,flour,2,cups
+acma domatesli,water,1,cup
+acma domatesli,yeast,1,packet
+acma domatesli,black pepper,0.5,teaspoon
+acma domatesli,tomatoes,2,pieces
+acma domatesli,olive oil,2,tablespoons
+acma domatesli,parsley,1,cup
+acma domatesli,salt,1,teaspoon
+acocado,avocado,1,whole
+acorn squash,pepper,0.5,teaspoon
+acorn squash,olive oil,2,tablespoons
+acorn squash,brown sugar,2,tablespoons
+acorn squash,salt,1,teaspoon
+acorn squash,acorn squash,1,whole
+acorn squash and burrata,burrata cheese,1,ball
+acorn squash and burrata,acorn squash,1,whole
+acorn squash salad,cranberries,1,cup
+acorn squash salad,acorn squash,1,medium
+acorn squash salad,mixed greens,2,cups
+acorn squash salad,balsamic vinaigrette dressing,1,cup
+acorn squash salad,walnuts,1,cup
+acorn squash with mole,Mole sauce,1,cup
+acorn squash with mole,Acorn squash,1,whole
+acorn squash xacuti,spices,1,tbsp
+acorn squash xacuti,coconut milk,1,cup
+acorn squash xacuti,herbs,2,tbsp
+acorn squash xacuti,acorn squash,2,medium
+acp,soy sauce,50,ml
+acp,chicken,500,grams
+acp,oil,2,tablespoons
+acp,peanut butter,100,grams
+acp,salt,1,teaspoon
+acp,pepper,1,teaspoon
+acp,sugar,2,tablespoons
+acp,garlic,3,cloves
+acp,coconut milk,200,ml
+acp,onion,1,medium
+acp arroz con pollo camarones,spices,1,tbsp
+acp arroz con pollo camarones,rice,2,cups
+acp arroz con pollo camarones,shrimp,1,lb
+acp arroz con pollo camarones,chicken,1,lb
+acp burrito,rice,0.5,cup
+acp burrito,salsa,0.25,cup
+acp burrito,tortilla,1,piece
+acp burrito,beans,0.5,cup
+acp burrito,seasoned beef,1,cup
+acp burrito,cheese,0.25,cup
+acp chicken,chicken,500,grams
+acp chicken,bell peppers,2,pieces
+acp chicken,soy sauce,3,tablespoons
+acp chicken,onion,1,medium
+acp chicken,vinegar,2,tablespoons
+acp chipotle,chipotle peppers,2,tbsp
+acp chipotle,rice,1,cup
+acp chipotle,grilled chicken,1,lb
+acp chipotle,creamy sauce,1,cup
+acp diabla,shrimp or chicken,250,grams
+acp diabla,tomatoes,2,medium
+acp diabla,chipotle sauce,100,ml
+acp diabla,rice,1,cup
+acp diabla,beans,1,cup
+acp diabla,lime juice,2,tablespoons
+acp feliz,onion,1,large
+acp feliz,evaporated milk,1,cup
+acp feliz,garlic,3,cloves
+acp feliz,aji amarillo paste,2,tablespoons
+acp feliz,salt,1,teaspoon
+acp feliz,pepper,0.5,teaspoon
+acp feliz,rice,1,cup
+acp feliz,potatoes,2,medium
+acp feliz,chicken,500,grams
+acp feliz,vegetable oil,2,tablespoons
+acp hawaiano,garlic,2,cloves
+acp hawaiano,pineapple juice,1,cup
+acp hawaiano,soy sauce,1,tbsp
+acp hawaiano,onion,1,medium
+acp hawaiano,chicken or pork,1,lb
+acp hawaiano,bell peppers,1,cup
+acp hawaiano,ginger,1,tsp
+acp hawaiano,brown sugar,2,tbsp
+acp mix,Chaat Masala,1,tablespoon
+acp mix,Lemon Juice,2,tablespoons
+acp mix,Green Chilies,2,pieces
+acp mix,Potatoes,2,cups
+acp mix,Cilantro,1,cup
+acp mix,Tomatoes,1,cup
+acp mix,Salt,1,teaspoon
+acp mix,Onions,1,cup
+acp quesadilla,onion,0.25,cup
+acp quesadilla,cheese,0.5,cup
+acp quesadilla,bell peppers,0.5,cup
+acp quesadilla,tortilla,2,pieces
+acp quesadilla,chicken,1,cup
+acp shrimp,onion,1,medium
+acp shrimp,shrimp,500,grams
+acp shrimp,garlic,3,cloves
+acp shrimp,ketchup,2,tablespoons
+acp shrimp,sugar,1,tablespoon
+acp shrimp,butter,2,tablespoons
+acp shrimp,soy sauce,3,tablespoons
+acp shrimp,water,1,cup
+acp steak,Rice,1,cup
+acp steak,Steak slices,2,pieces
+acp steak,Soy sauce,2,tablespoons
+acp steak,Black beans,0.5,cup
+acp steak,Olive oil,1,tablespoon
+acp steak,Black pepper,0.5,teaspoon
+acp steak,Lime juice,1,tablespoon
+acp steak,Salt,1,teaspoon
+acp steak,Garlic,2,cloves
+acp tacos,lettuce,0.5,cup
+acp tacos,tortilla,4,pieces
+acp tacos,cheese,0.5,cup
+acp tacos,salsa,0.25,cup
+acp tacos,adobo chicken,1,cup
+acp texano,Bell peppers,50,grams
+acp texano,Grilled meat (e.g. steak or chicken),200,grams
+acp texano,Tex-Mex seasonings and spices,10,grams
+acp texano,Cheese (e.g. cheddar or Monterey Jack),100,grams
+acp texano,Onions,50,grams
+acqua frittata,eggs,4,
+acqua frittata,flour,0.5,cup
+acqua frittata,water,1,cup
+acqua market salad,fresh greens,2,cups
+acqua market salad,cucumbers,1,cup
+acqua market salad,vinaigrette dressing,2,tablespoons
+acqua market salad,feta cheese,0.5,cup
+acqua market salad,cherry tomatoes,1,cup
+acqua panna,Acqua Panna mineral water,1,bottle
+acqua panna mineral water,Acqua Panna mineral water,1,bottle
+acqua panna natural spring water,water,1,bottle
+acqua panna spring water,water,1,bottle
+acqua panna still,Acqua Panna Still Water,1,bottle
+acqua panna still italy,water,1,bottle
+acqua panna still water,water,1,bottle
+acqua panna water,water,1,bottle
+acqua wings,ginger,1,thumb-sized piece
+acqua wings,flour,1,cup
+acqua wings,salt,1,teaspoon
+acqua wings,chicken wings,12,pieces
+acqua wings,garlic,3,cloves
+acqua wings,vinegar,2,tablespoons
+acqua wings,soy sauce,1,cup
+acqua wings,honey,2,tablespoons
+acqua wings,pepper,1,teaspoon
+acquapanna,mineral water,1,bottle
+acrobat king estate oregon pinot noir,Pinot Noir,1,bottle
+acrobat pinot grigio,Pinot Grigio wine,1,bottle
+acrylic dripper set,acrylic,1,set
+acs sheep milk ricotta,salt,1,tsp
+acs sheep milk ricotta,sheep's milk,2,cups
+acs sheep milk ricotta,rennet,1,tsp
+actual veggies burger,smoked paprika,1,teaspoon
+actual veggies burger,onion,1,small
+actual veggies burger,avocado,1,ripe
+actual veggies burger,garlic,2,cloves
+actual veggies burger,flaxseed meal,1,tablespoon
+actual veggies burger,salt,0.5,teaspoon
+actual veggies burger,breadcrumbs,0.5,cup
+actual veggies burger,burger buns,4,pieces
+actual veggies burger,soy sauce,1,tablespoon
+actual veggies burger,pepper,0.5,teaspoon
+actual veggies burger,tomato,1,large
+actual veggies burger,lettuce,4,leaves
+actual veggies burger,mushrooms,1,cup
+actual veggies burger,black beans,1,can
+acuerito,garlic powder,1,teaspoon
+acuerito,pork skin,200,grams
+acuerito,vegetable oil,2,tablespoons
+acuerito,paprika,1,teaspoon
+acuerito,salt,1,teaspoon
+acura roll,"Fresh seafood (e.g. tuna, salmon, shrimp)",150,g
+acura roll,Seaweed (Nori),1,sheet
+acura roll,Sushi rice,100,g
+acura roll,Cucumber,30,g
+acura roll,Avocado,50,g
+ada lovelace,vanilla extract,1,tsp
+ada lovelace,sugar,150,g
+ada lovelace,chocolate,200,g
+ada lovelace,flour,50,g
+ada lovelace,eggs,2,
+ada lovelace,butter,100,g
+ada pradhaman,coconut milk,2,cups
+ada pradhaman,jaggery,1,cup
+ada pradhaman,nuts,1,cup
+ada pradhaman,rice flakes,1,cup
+adai aviyal,coconut,1,cup
+adai aviyal,green chilies,2,pieces
+adai aviyal,lentils,1,cup
+adai aviyal,curd,1,cup
+adai aviyal,mustard seeds,1,tsp
+adai aviyal,salt,1,tsp
+adai aviyal,rice,1,cup
+adai aviyal,curry leaves,1,sprig
+adai aviyal,mixed vegetables,2,cups
+adai aviyal,turmeric powder,1,tsp
+adai with avial,adai batter,1,cup
+adai with avial,avial,1,bowl
+adaline,herbs,2,tablespoons
+adaline,tomatoes,2,cups
+adaline,feta cheese,1,cup
+adaline,olives,1,cup
+adamas italian siberian sturgeon,Olive oil,1,tbsp
+adamas italian siberian sturgeon,Garlic,2,cloves
+adamas italian siberian sturgeon,Butter,1,tbsp
+adamas italian siberian sturgeon,Siberian sturgeon,1,fillet
+adamas italian siberian sturgeon,Salt,1,pinch
+adamas italian siberian sturgeon,Black pepper,1,pinch
+adami prosecco bosco gicco italy,Adami Prosecco Bosco di Gica,1,bottle
+adams,tomatoes,3,medium
+adams,oregano,1,teaspoon
+adams,onion,1,medium
+adams,salt,1,teaspoon
+adams,chicken,2,pieces
+adams,olive oil,2,tablespoons
+adams,bell peppers,2,medium
+adams,capers,2,tablespoons
+adams,black pepper,1,teaspoon
+adams,black olives,1,cup
+adams,garlic,3,cloves
+adams apple,cinnamon,1,teaspoon
+adams apple,apples,4,pieces
+adams apple,butter,0.5,cup
+adams apple,sugar,1.5,cups
+adams chicken wings,honey,2,tablespoons
+adams chicken wings,chicken wings,12,pieces
+adams chicken wings,sesame seeds,1,tablespoon
+adams chicken wings,garlic,3,cloves
+adams chicken wings,soy sauce,1,cup
+adams chili,chili powder,2,tbsp
+adams chili,garlic,2,cloves
+adams chili,kidney beans,1,can
+adams chili,ground beef,1,lb
+adams chili,onion,1,medium
+adams chili,salt,1,tsp
+adams chili,diced tomatoes,1,can
+adams crepes,flour,1.5,cups
+adams crepes,butter,2,tablespoons
+adams crepes,sugar,0.5,cup
+adams crepes,vanilla extract,1,teaspoon
+adams crepes,milk,2,cups
+adams crepes,eggs,2,
+adams crepes,salt,0.25,teaspoon
+adams fall,garlic,2,cloves
+adams fall,feta cheese,1,cup
+adams fall,olive oil,2,tablespoons
+adams fall,black pepper,1,teaspoon
+adams fall,salt,1,teaspoon
+adams fall,fresh basil,1,handful
+adams fall,eggplant,1,large
+adams fall,tomatoes,2,medium
+adams hot crab dip,cream cheese,8,oz
+adams hot crab dip,mayonnaise,1,cup
+adams hot crab dip,spices,1,tsp
+adams hot crab dip,lump crab meat,1,cup
+adams value pak,French fries,1,serving
+adams value pak,Onion rings,4,pieces
+adams value pak,Chicken tenders,2,pieces
+adams value pak,Hush puppies,5,pieces
+adams value pak,Fried shrimp,3,pieces
+adams wings,ginger,1,thumb-sized piece
+adams wings,soy sauce,1,cup
+adams wings,garlic,3,cloves
+adams wings,green onions,2,stalks
+adams wings,honey,1,cup
+adams wings,chicken wings,12,pieces
+adams wings,rice vinegar,2,tablespoons
+adams wings,sesame oil,2,tablespoons
+adana,Garlic,2,"cloves, minced"
+adana,Paprika,1,teaspoon
+adana,Red pepper flakes,1,teaspoon
+adana,Black pepper,1,teaspoon
+adana,Salt,1,teaspoon
+adana,Cumin,1,teaspoon
+adana,Onion,1,"large, grated"
+adana,Ground lamb or beef,500,grams
+adana chicken,parsley,1,cup
+adana chicken,salt,1,teaspoon
+adana chicken,red pepper flakes,1,teaspoon
+adana chicken,paprika,1,teaspoon
+adana chicken,minced chicken,500,grams
+adana chicken,onion,1,large
+adana chicken,cumin,1,teaspoon
+adana chicken,black pepper,1,teaspoon
+adana chicken,garlic,2,cloves
+adana durum,spices,10,grams
+adana durum,sauce,30,grams
+adana durum,minced meat,200,grams
+adana durum,salad,50,grams
+adana durum,flatbread,1,piece
+adana iskender,yogurt,50,grams
+adana iskender,tomato sauce,50,grams
+adana iskender,bread,100,grams
+adana iskender,lamb or beef,200,grams
+adana kebab,minced lamb,500,g
+adana kebab,paprika,1,tbsp
+adana kebab,black pepper,0.5,tsp
+adana kebab,onion,1,large
+adana kebab,garlic,2,cloves
+adana kebab,cumin,1,tsp
+adana kebab,salt,1,tsp
+adana kebab sandwich,black pepper,1,teaspoon
+adana kebab sandwich,flatbread,2,pieces
+adana kebab sandwich,red pepper flakes,1,teaspoon
+adana kebab sandwich,garlic,2,cloves
+adana kebab sandwich,salad,1,serving
+adana kebab sandwich,minced lamb,250,grams
+adana kebab sandwich,salt,1,teaspoon
+adana kebab sandwich,sauces,1,serving
+adana kebab sandwich,onion,1,large
+adana kebab wrap,lettuce,4,leaves
+adana kebab wrap,lemon juice,1,tbsp
+adana kebab wrap,cucumber,1,large
+adana kebab wrap,tomato,1,large
+adana kebab wrap,salt,1,tsp
+adana kebab wrap,onion,1,large
+adana kebab wrap,garlic,2,cloves
+adana kebab wrap,black pepper,0.5,tsp
+adana kebab wrap,yogurt,100,g
+adana kebab wrap,flatbread,4,pieces
+adana kebab wrap,minced lamb,250,g
+adana kebab wrap,red pepper flakes,1,tsp
+adana kebap,red pepper flakes,1,tablespoon
+adana kebap,black pepper,1,teaspoon
+adana kebap,cumin,1,teaspoon
+adana kebap,garlic,2,cloves
+adana kebap,minced lamb or beef,500,grams
+adana kebap,onion,1,large
+adana kebap,salt,1,teaspoon
+adana kebap,paprika,1,teaspoon
+adana kebob,paprika,1,teaspoon
+adana kebob,salt,1,teaspoon
+adana kebob,onion,1,large
+adana kebob,garlic,2,cloves
+adana kebob,minced lamb,500,grams
+adana kebob,black pepper,0.5,teaspoon
+adana kebob,cumin,1,teaspoon
+adana lamb,minced lamb,500,grams
+adana lamb,sumac,1,teaspoon
+adana lamb,black pepper,1,teaspoon
+adana lamb,cumin,1,teaspoon
+adana lamb,salt,1,teaspoon
+adana lamb,garlic,2,cloves
+adana lamb,onion,1,large
+adana lamb,paprika,2,teaspoons
+adana rice,onion,1,medium
+adana rice,tomato,2,medium
+adana rice,rice,1,cup
+adana rice,ground beef,1,lb
+adana rice,paprika,1,tsp
+adana rice,salt,1,tsp
+adana rice,garlic,2,cloves
+adana rice,cumin,1,tsp
+adana rice,black pepper,0.5,tsp
+adana rice,bell pepper,1,medium
+adana rice,olive oil,2,tbsp
+adana sandwich,salad,1,serving
+adana sandwich,minced meat,200,grams
+adana sandwich,flatbread,2,pieces
+adana sandwich,sauces,2,tablespoons
+adana shish kebab,salt,1,teaspoon
+adana shish kebab,red pepper flakes,1,teaspoon
+adana shish kebab,onion,1,large
+adana shish kebab,black pepper,1,teaspoon
+adana shish kebab,parsley,2,tablespoons
+adana shish kebab,garlic,2,cloves
+adana shish kebab,sumac,1,teaspoon
+adana shish kebab,paprika,1,teaspoon
+adana shish kebab,minced lamb or beef,500,grams
+adana shish kebab,cumin,1,teaspoon
+adana wrap,salad,1,serving
+adana wrap,minced meat,200,g
+adana wrap,lavash bread,1,piece
+adana wrap,sauces,1,serving
+adas breakfast,spices,1,tbsp
+adas breakfast,lentils,1,cup
+adas breakfast,onions,2,medium
+adas mini black brioche loaf,honey,2,tablespoons
+adas mini black brioche loaf,brioche dough,1,loaf
+adas mini black brioche loaf,black lentils,1,cup
+adb,onion,1,medium
+adb,soy sauce,2,tablespoons
+adb,beef,250,grams
+adb,olive oil,2,tablespoons
+adb,tomato,2,medium
+adb,salt,1,teaspoon
+adb,black pepper,0.5,teaspoon
+adb,garlic,3,cloves
+addict kimbap,carrot,1,medium
+addict kimbap,rice,2,cups
+addict kimbap,seaweed,10,sheets
+addict kimbap,spam,6,slices
+addict kimbap,egg,2,pieces
+addict kimbap,pickled radish,6,pieces
+addict kimbap,cucumber,1,medium
+addies,olives,1,cup
+addies,herbs,1,tablespoon
+addies,tomatoes,2,medium
+addies,feta cheese,0.5,cup
+addies caesar salad,Caesar dressing,0.25,cup
+addies caesar salad,Parmesan cheese,0.25,cup
+addies caesar salad,romaine lettuce,2,cups
+addies caesar salad,croutons,0.5,cup
+addies mussels,white wine,1,cup
+addies mussels,parsley,2,tbsp
+addies mussels,garlic,3,cloves
+addies mussels,mussels,1,lb
+addies mussels,onion,1,medium
+addies mussels,lemon,1,sliced
+addies mussels,butter,2,tbsp
+addies salad,feta cheese,1,cup
+addies salad,vinaigrette dressing,2,tablespoons
+addies salad,cherry tomatoes,1,cup
+addies salad,cucumbers,1,cup
+addies salad,fresh greens,2,cups
+additional,brown sugar,1,tablespoon
+additional,ginger,1,inch
+additional,garlic,2,cloves
+additional,soy sauce,3,tablespoons
+additional,beef broth,2,cups
+additional baguette,yeast,7,g
+additional baguette,flour,300,g
+additional baguette,water,200,ml
+additional baguette,salt,5,g
+additional chicken,olive oil,2,tbsp
+additional chicken,salt,1,tsp
+additional chicken,pepper,0.5,tsp
+additional chicken,garlic powder,1,tsp
+additional chicken,chicken,1,lb
+additional chicken,soy sauce,2,tbsp
+additional chicken eggplant,olive oil,2,tablespoons
+additional chicken eggplant,eggplant,300,grams
+additional chicken eggplant,garlic,2,cloves
+additional chicken eggplant,chicken,200,grams
+additional chicken eggplant,soy sauce,2,tablespoons
+additional chicken eggplant,salt,1,teaspoon
+additional dessert,sugar,100,g
+additional dessert,butter,100,g
+additional dessert,flour,50,g
+additional dessert,chocolate,200,g
+additional dessert,eggs,2,
+additional dessert,vanilla ice cream,1,scoop
+additional egg,egg,1,piece
+additional egg,butter,1,teaspoon
+additional egg,salt,1,pinch
+additional egg,black pepper,1,pinch
+additional glutton injera,water,1,cup
+additional glutton injera,salt,0.5,tsp
+additional glutton injera,teff flour,2,cups
+additional grande,tomato sauce,2,cups
+additional grande,meatballs,6,pieces
+additional grande,spaghetti noodles,8,ounces
+additional hour,beef,1,lb
+additional hour,mushrooms,8,oz
+additional hour,tomato sauce,1,can
+additional hour,onions,2,medium
+additional hour bar,oats,1,cup
+additional hour bar,honey,0.25,cup
+additional hour bar,almonds,0.5,cup
+additional hour bar,dark chocolate,50,grams
+additional hour beer and wine,Red Wine,1,glass
+additional hour beer and wine,Beer,1,bottle
+additional ingredients,soy sauce,1,tbsp
+additional ingredients,chocolate,200,g
+additional ingredients,honey,50,g
+additional ingredients,sea salt,1,pinch
+additional meat,additional meat,1,lb
+additional pita with zatar,olive oil,2,tablespoons
+additional pita with zatar,zatar seasoning,2,tablespoons
+additional pita with zatar,pita bread,4,pieces
+additional pita with zatar,salt,1,teaspoon
+additional rice,rice,1,cup
+additional rice,salt,1,teaspoon
+additional rice,butter,2,tablespoons
+additional rice,chicken broth,1,cup
+additional scoop,whipped cream,1,dollop
+additional scoop,vanilla ice cream,1,scoop
+additional scoop,chopped nuts,1,tablespoon
+additional scoop,chocolate sauce,1,drizzle
+additional scoop on nachos,guacamole,4,tablespoons
+additional scoop on nachos,cheese,1,cup
+additional scoop on nachos,sour cream,3,tablespoons
+additional scoop on nachos,jalapenos,2,tablespoons
+addl crab ball,herbs,5,grams
+addl crab ball,breadcrumbs,50,grams
+addl crab ball,crab meat,200,grams
+addl crab ball,seasonings,10,grams
+addoz blk tuna,salt,1,pinch
+addoz blk tuna,black pepper,1,pinch
+addoz blk tuna,blackened tuna,1,piece
+addoz blk tuna,citrus sauce,2,tablespoons
+addoz ccake,salt,0.5,tsp
+addoz ccake,lemon zest,2,tsp
+addoz ccake,baking powder,1.5,tsp
+addoz ccake,eggs,4,
+addoz ccake,sugar,1.5,cups
+addoz ccake,almond flour,2,cups
+addoz ccake,vanilla extract,1,tsp
+addoz salmon,salmon,1,fillet
+addoz salmon,spices,1,tsp
+addoz salmon,olive oil,2,tbsp
+addoz salmon,herbs,2,tbsp
+addoz salmon,lemon,1,slice
+addoz tuna,pasta,150,grams
+addoz tuna,tomato sauce,1,cup
+addoz tuna,tuna,200,grams
+addoz tuna,herbs,1,tablespoon
+addscallops,lemon,1,whole
+addscallops,parsley,2,tablespoons
+addscallops,butter,2,tablespoons
+addscallops,fresh scallops,8,pieces
+addscallops,garlic,2,cloves
+addshrimp,shrimp,250,grams
+addshrimp,herbs,1,tablespoon
+addshrimp,butter,2,tablespoons
+addshrimp,garlic,2,cloves
+adega cooperativa de borba aragonez alentejano portugal,Adega Cooperativa de Borba Aragonez,1,bottle
+adegas gran vinum albariño rias baixas,Albariño wine,1,bottle
+adelaides salmon,ginger,1,teaspoon
+adelaides salmon,brown sugar,1,tablespoon
+adelaides salmon,garlic,2,cloves
+adelaides salmon,sesame oil,1,teaspoon
+adelaides salmon,green onions,2,stalks
+adelaides salmon,mirin,1,tablespoon
+adelaides salmon,soy sauce,2,tablespoons
+adelaides salmon,salmon,1,fillet
+adelsheim deglace pinot noir ice wine willamette valley oregon,Pinot Noir grapes,1,bottle
+adelsheim pinot noir willamette valley,Yeast,5,g
+adelsheim pinot noir willamette valley,Sulfites,2,g
+adelsheim pinot noir willamette valley,Pinot Noir grapes,100,g
+aderezo,honey,0.5,cup
+aderezo,garlic,2,cloves
+aderezo,soy sauce,0.25,cup
+aderezo,olive oil,1,cup
+aderezo,lemon juice,0.25,cup
+adios beaches,sweet and sour mix,1,oz
+adios beaches,rum,1.5,oz
+adios beaches,blue curacao,1,oz
+adios beaches,lemon-lime soda,1,oz
+adios beaches,vodka,1.5,oz
+adios primo,vodka,1.5,oz
+adios primo,sweet and sour mix,1.5,oz
+adios primo,lemon-lime soda,3,oz
+adios primo,blue curaçao,1,oz
+adios primo,rum,1.5,oz
+aditi garden salad,cucumbers,1,cup
+aditi garden salad,cherry tomatoes,1,cup
+aditi garden salad,vinaigrette dressing,2,tablespoons
+aditi garden salad,mixed greens,2,cups
+adjapsandali,tomatoes,3,pieces
+adjapsandali,herbs and spices,1,blend
+adjapsandali,bell peppers,2,pieces
+adjapsandali,onion,1,large
+adjapsandali,eggplant,2,pieces
+adjatougbe,palm oil,2,tablespoons
+adjatougbe,spices,1,teaspoon
+adjatougbe,fermented locust beans,1,cup
+adjika,garlic cloves,3,cloves
+adjika,salt,1,teaspoon
+adjika,red chili peppers,5,pieces
+adjika,tomatoes,2,medium
+adjika,vinegar,2,tablespoons
+adjika,coriander seeds,1,teaspoon
+admiral,tomatoes,2,medium
+admiral,parsley,2,tbsp
+admiral,mussels,150,g
+admiral,white wine,1,cup
+admiral,garlic,3,cloves
+admiral,lemon juice,1,tbsp
+admiral,olive oil,2,tbsp
+admiral,shrimp,250,g
+admiral,calamari,200,g
+admiral chicken nachos,chicken,1,cup
+admiral chicken nachos,tortilla chips,2,cups
+admiral chicken nachos,salsa,0.5,cup
+admiral chicken nachos,sour cream,0.25,cup
+admiral chicken nachos,cheese,1,cup
+admiral chicken nachos,guacamole,0.5,cup
+admiral egg sandwich,egg,2,pieces
+admiral egg sandwich,cheese,1,slice
+admiral egg sandwich,bread,2,slices
+admiral egg sandwich,bacon,2,slices
+admiral egg sandwich,hot sauce,1,teaspoon
+admiral jacks favorite chicken,chicken,1,whole
+admiral jacks favorite chicken,soy sauce,2,tablespoons
+admiral jacks favorite chicken,garlic,3,cloves
+admiral jacks favorite chicken,green onions,2,stalks
+admiral jacks favorite chicken,sesame oil,1,teaspoon
+admiral jacks favorite chicken,brown sugar,1,tablespoon
+admiral jacks favorite chicken,ginger,1,teaspoon
+admiral prime rib,garlic,3,cloves
+admiral prime rib,salt,2,tsp
+admiral prime rib,herbs,2,tbsp
+admiral prime rib,prime rib roast,1,roast
+admiral prime rib,pepper,1,tsp
+admirals feast,lobster,1,whole
+admirals feast,butter,1,cup
+admirals feast,potatoes,4,pieces
+admirals feast,mussels,12,pieces
+admirals feast,corn on the cob,2,pieces
+admirals feast,parsley,2,tablespoons
+admirals feast,lemon,1,whole
+admirals feast,shrimp,10,pieces
+admirals feast,crab legs,4,pieces
+admirals feast,garlic,3,cloves
+admirals feast,clams,12,pieces
+admirals tableside chopped salad,Red wine vinegar,1,tablespoon
+admirals tableside chopped salad,Olive oil,2,tablespoons
+admirals tableside chopped salad,Cherry tomatoes,1,cup
+admirals tableside chopped salad,Kalamata olives,0.25,cup
+admirals tableside chopped salad,Romaine lettuce,2,cups
+admirals tableside chopped salad,Red onion,0.5,cup
+admirals tableside chopped salad,Cucumber,1,cup
+admirals tableside chopped salad,Garlic,1,clove
+admirals tableside chopped salad,Salt,0.5,teaspoon
+admirals tableside chopped salad,Fresh parsley,0.25,cup
+admirals tableside chopped salad,Black pepper,0.25,teaspoon
+admirals tableside chopped salad,Dijon mustard,1,teaspoon
+admirals tableside chopped salad,Feta cheese,0.5,cup
+admission,feta cheese,0.5,cup
+admission,olives,1,cup
+admission,herbs,1,tablespoon
+admission,tomatoes,2,medium
+admo,spices,1,tbsp
+admo,lentils,1,cup
+admo,garlic,3,cloves
+admo,onions,2,medium
+adobada,garlic,3,cloves
+adobada,vinegar,0.5,cup
+adobada,achiote paste,2,tbsp
+adobada,cumin,1,tsp
+adobada,paprika,1,tsp
+adobada,dried oregano,1,tsp
+adobada,pork,1,lb
+adobada,chilies,2,dried
+adobo,garlic,4,cloves
+adobo,soy sauce,50,ml
+adobo,peppercorns,1,teaspoon
+adobo,chicken or pork,500,grams
+adobo,vinegar,100,ml
+adobo,bay leaves,2,pieces
+adobo bbq chicken,garlic,4,cloves
+adobo bbq chicken,sugar,2,tbsp
+adobo bbq chicken,vinegar,1,cup
+adobo bbq chicken,bay leaves,2,pieces
+adobo bbq chicken,chicken,1,whole
+adobo bbq chicken,black pepper,1,tsp
+adobo bbq chicken,soy sauce,1,cup
+adobo brown sugar marinated farms pork loin,black peppercorns,1,tbsp
+adobo brown sugar marinated farms pork loin,pork loin,1,lb
+adobo brown sugar marinated farms pork loin,garlic,4,cloves
+adobo brown sugar marinated farms pork loin,bay leaves,2,pieces
+adobo brown sugar marinated farms pork loin,soy sauce,0.5,cup
+adobo brown sugar marinated farms pork loin,brown sugar,1,cup
+adobo brown sugar marinated farms pork loin,vinegar,0.25,cup
+adobo brownie,eggs,2,large
+adobo brownie,water,1,cup
+adobo brownie,adobo sauce,1,cup
+adobo brownie,brownie mix,1,box
+adobo brownie,vegetable oil,1,cup
+adobo carnitas,lime,1,
+adobo carnitas,pepper,1,tsp
+adobo carnitas,onion,1,large
+adobo carnitas,orange,1,
+adobo carnitas,adobo sauce,1,cup
+adobo carnitas,bay leaves,2,
+adobo carnitas,salt,1,tsp
+adobo carnitas,pork shoulder,2,lbs
+adobo carnitas,garlic,4,cloves
+adobo chicken,chicken,1,whole
+adobo chicken,peppercorns,1,tsp
+adobo chicken,vinegar,0.5,cup
+adobo chicken,soy sauce,0.5,cup
+adobo chicken,bay leaves,2,pieces
+adobo chicken,garlic,4,cloves
+adobo chicken bistro,soy sauce,0.5,cup
+adobo chicken bistro,black peppercorns,1,tsp
+adobo chicken bistro,bay leaves,2,pieces
+adobo chicken bistro,chicken,1,whole
+adobo chicken bistro,garlic,4,cloves
+adobo chicken bistro,vinegar,0.5,cup
+adobo chicken burrito,chicken,1,lb
+adobo chicken burrito,beans,0.5,cup
+adobo chicken burrito,salsa,0.25,cup
+adobo chicken burrito,adobo sauce,0.5,cup
+adobo chicken burrito,rice,1,cup
+adobo chicken burrito,cheese,0.5,cup
+adobo chicken burrito,tortilla,4,pieces
+adobo chicken enchiladas,adobo sauce,1,cup
+adobo chicken enchiladas,salsa verde,1,cup
+adobo chicken enchiladas,cheese,1,cup
+adobo chicken enchiladas,chicken,2,cups
+adobo chicken enchiladas,corn tortillas,8,pieces
+adobo chicken fajitas,chicken,1,pound
+adobo chicken fajitas,bell peppers,2,pieces
+adobo chicken fajitas,garlic,2,cloves
+adobo chicken fajitas,olive oil,2,tablespoons
+adobo chicken fajitas,adobo sauce,0.5,cup
+adobo chicken fajitas,lime juice,2,tablespoons
+adobo chicken fajitas,tortillas,8,pieces
+adobo chicken fajitas,onion,1,medium
+adobo chicken quesdilla,adobo sauce,2,tablespoons
+adobo chicken quesdilla,guacamole,0.5,cup
+adobo chicken quesdilla,sour cream,0.25,cup
+adobo chicken quesdilla,salsa,0.5,cup
+adobo chicken quesdilla,tortillas,2,pieces
+adobo chicken quesdilla,cheese,1,cup
+adobo chicken quesdilla,shredded chicken,1,cup
+adobo chicken taco,tortillas,8,count
+adobo chicken taco,chicken,1,lb
+adobo chicken taco,avocado,2,count
+adobo chicken taco,adobo sauce,0.5,cup
+adobo chicken taco,salsa,1,cup
+adobo chicken taco,cilantro,0.5,cup
+adobo cochinita pibil,vinegar,2,tbsp
+adobo cochinita pibil,achiote paste,3,tbsp
+adobo cochinita pibil,garlic,4,cloves
+adobo cochinita pibil,onion,1,large
+adobo cochinita pibil,lime juice,1,cup
+adobo cochinita pibil,orange juice,1,cup
+adobo cochinita pibil,pork,1,kg
+adobo cochinita pibil,salt,1,tsp
+adobo cochinita pibil,bay leaves,2,pieces
+adobo de puerco,apple cider vinegar,1,cup
+adobo de puerco,dried guajillo chilies,4,pieces
+adobo de puerco,brown sugar,2,tbsp
+adobo de puerco,salt,1,tsp
+adobo de puerco,pork shoulder,2,lbs
+adobo de puerco,garlic,4,cloves
+adobo de puerco,bay leaves,2,pieces
+adobo de puerco,black peppercorns,1,tsp
+adobo de puerco one,pork shoulder,2,lbs
+adobo de puerco one,apple cider vinegar,1,cup
+adobo de puerco one,garlic,4,cloves
+adobo de puerco one,salt,1,tsp
+adobo de puerco one,brown sugar,2,tbsp
+adobo de puerco one,dried guajillo chilies,4,pieces
+adobo de puerco one,black peppercorns,1,tsp
+adobo de puerco one,bay leaves,2,pieces
+adobo de puerco two,soy sauce,1,cup
+adobo de puerco two,pork,2,lbs
+adobo de puerco two,vinegar,1,cup
+adobo de puerco two,bay leaves,2,pieces
+adobo de puerco two,brown sugar,2,tbsp
+adobo de puerco two,onion,1,large
+adobo de puerco two,black peppercorns,1,tbsp
+adobo de puerco two,garlic,4,cloves
+adobo pandesal,pandesal bread rolls,6,pieces
+adobo pandesal,chicken adobo,200,grams
+adobo pork belly egg and cheese sandwich,adobo-marinated pork belly,150,grams
+adobo pork belly egg and cheese sandwich,cheese,2,slices
+adobo pork belly egg and cheese sandwich,bread,2,slices
+adobo pork belly egg and cheese sandwich,egg,1,piece
+adobo pork belly fries,adobo sauce,50,ml
+adobo pork belly fries,spices,1,tsp
+adobo pork belly fries,fries,300,g
+adobo pork belly fries,pork belly slices,200,g
+adobo pork belly fries,fresh herbs,1,tbsp
+adobo pork chop,sugar,2,tbsp
+adobo pork chop,black peppercorns,1,tsp
+adobo pork chop,pork chops,4,pieces
+adobo pork chop,bay leaves,2,pieces
+adobo pork chop,vinegar,1.5,cups
+adobo pork chop,garlic,4,cloves
+adobo pork chop,soy sauce,1,cup
+adobo pork tacos,vinegar,2,tbsp
+adobo pork tacos,salt,1,tsp
+adobo pork tacos,avocado,1,sliced
+adobo pork tacos,paprika,1,tsp
+adobo pork tacos,pepper,0.5,tsp
+adobo pork tacos,cilantro,0.25,cup
+adobo pork tacos,orange juice,0.25,cup
+adobo pork tacos,onion,1,medium
+adobo pork tacos,pork,1,lb
+adobo pork tacos,garlic,3,cloves
+adobo pork tacos,salsa,1,cup
+adobo pork tacos,tortillas,8,count
+adobo pork tacos,cumin,1,tsp
+adobo pork tacos,adobo sauce,0.5,cup
+adobo pulled chicken soft tacos,tortillas,8,count
+adobo pulled chicken soft tacos,salsa,1,cup
+adobo pulled chicken soft tacos,cilantro,0.25,cup
+adobo pulled chicken soft tacos,chicken,1,lb
+adobo pulled chicken soft tacos,adobo sauce,0.5,cup
+adobo pulled chicken soft tacos,avocado,1,count
+adobo radicchio wraps,adobo chicken,1,cup
+adobo radicchio wraps,radicchio leaves,6,leaves
+adobo salmon,soy sauce,0.5,cup
+adobo salmon,sugar,2,tbsp
+adobo salmon,salmon,1,lb
+adobo salmon,garlic,3,cloves
+adobo salmon,black peppercorns,1,tsp
+adobo salmon,bay leaves,2,pieces
+adobo salmon,vinegar,0.25,cup
+adobo short ribs tacos,tortillas,8,pieces
+adobo short ribs tacos,onions,1,medium
+adobo short ribs tacos,short ribs,1,lb
+adobo short ribs tacos,cilantro,0.5,cup
+adobo short ribs tacos,lime,1,piece
+adobo short ribs tacos,adobo sauce,1,cup
+adobo shrimp and grits,grits,1,cup
+adobo shrimp and grits,bell pepper,1,piece
+adobo shrimp and grits,shrimp,1,lb
+adobo shrimp and grits,salt,1,tsp
+adobo shrimp and grits,garlic,2,cloves
+adobo shrimp and grits,pepper,0.5,tsp
+adobo shrimp and grits,olive oil,2,tbsp
+adobo shrimp and grits,onion,0.5,cup
+adobo shrimp and grits,adobo sauce,0.5,cup
+adobo steak and blue cheese,steak,1,lb
+adobo steak and blue cheese,blue cheese,0.25,cup
+adobo steak and blue cheese,adobo sauce,0.5,cup
+adobo taco,avocado,1,piece
+adobo taco,tortillas,8,pieces
+adobo taco,chicken thighs,1,lb
+adobo taco,adobo sauce,0.5,cup
+adobo taco,cilantro,0.25,cup
+adobo taco,salsa,1,cup
+adobo tofu,onion,1,medium
+adobo tofu,sugar,1,tbsp
+adobo tofu,tofu,1,block
+adobo tofu,peppercorns,1,tsp
+adobo tofu,vinegar,0.25,cup
+adobo tofu,bay leaves,2,pieces
+adobo tofu,garlic,3,cloves
+adobo tofu,soy sauce,0.25,cup
+adobo wings,black peppercorns,1,tsp
+adobo wings,garlic,4,cloves
+adobo wings,soy sauce,1,cup
+adobo wings,chicken wings,12,pieces
+adobo wings,sugar,2,tbsp
+adobo wings,vinegar,1.5,cups
+adobo wings,bay leaves,2,pieces
+adobo yucca fries,olive oil,2,tbsp
+adobo yucca fries,adobo seasoning,2,tbsp
+adobo yucca fries,yucca,2,lbs
+adobo yucca fries,salt,1,tsp
+adobong manok,garlic,4,cloves
+adobong manok,chicken,1,whole
+adobong manok,vinegar,0.5,cup
+adobong manok,peppercorns,1,tsp
+adobong manok,soy sauce,0.5,cup
+adobong manok,bay leaves,2,pieces
+adobong pusit paella,vinegar,1,tablespoon
+adobong pusit paella,black pepper,1,teaspoon
+adobong pusit paella,soy sauce,2,tablespoons
+adobong pusit paella,squid,500,grams
+adobong pusit paella,onion,1,large
+adobong pusit paella,olive oil,3,tablespoons
+adobong pusit paella,bay leaves,2,pieces
+adobong pusit paella,rice,2,cups
+adobong pusit paella,bell pepper,1,large
+adobong pusit paella,squid ink,1,sachet
+adobong pusit paella,garlic,4,cloves
+adobong pusit paella,tomato,2,medium
+adonis,garlic,2,cloves
+adonis,lemon juice,1,tbsp
+adonis,salt,1,tsp
+adonis,olive oil,2,tbsp
+adonis,lamb,300,g
+adonis,black pepper,0.5,tsp
+adonko bitters,roots,1,bottle
+adonko bitters,herbs,1,bottle
+adorde,soy sauce,1,cup
+adorde,vinegar,1,cup
+adorde,bay leaves,2,pieces
+adorde,garlic,4,cloves
+adorde,pork belly,500,grams
+adoro bucatini con arco,Heavy cream,100,ml
+adoro bucatini con arco,Olive oil,2,tablespoons
+adoro bucatini con arco,Black pepper,1,teaspoon
+adoro bucatini con arco,Pancetta,100,grams
+adoro bucatini con arco,Salt,1,teaspoon
+adoro bucatini con arco,Garlic,2,cloves
+adoro bucatini con arco,Bucatini pasta,200,grams
+adoro bucatini con arco,Parmesan cheese,50,grams
+adoro calamarata,garlic,2,cloves
+adoro calamarata,calamari,250,grams
+adoro calamarata,white wine,1,cup
+adoro calamarata,parsley,2,tablespoons
+adoro calamarata,calamarata pasta,300,grams
+adoro calamarata,olive oil,2,tablespoons
+adoro calamarata,tomato sauce,1,cup
+adoro elocoidali,pecorino cheese,50,g
+adoro elocoidali,garlic,2,cloves
+adoro elocoidali,elocoidali pasta,250,g
+adoro elocoidali,tomato sauce,1,cup
+adoro elocoidali,pancetta,100,g
+adoro fusilli,tomato sauce,1,cup
+adoro fusilli,Parmesan cheese,1,tablespoon
+adoro fusilli,basil,2,tablespoons
+adoro fusilli,fusilli pasta,200,grams
+adoro mafaldine,Butter,2,tablespoons
+adoro mafaldine,Mafaldine pasta,200,grams
+adoro mafaldine,Heavy cream,1,cup
+adoro mafaldine,Black pepper,1,teaspoon
+adoro mafaldine,Fresh herbs (such as parsley and basil),2,tablespoons
+adoro mafaldine,Garlic,2,cloves
+adoro mafaldine,Salt,1,teaspoon
+adoro mafaldine,Parmesan cheese,1,cup
+adoro penne rigate,penne rigate pasta,250,grams
+adoro penne rigate,Parmesan cheese,1,tablespoon
+adoro penne rigate,tomato sauce,1,cup
+adoro penne rigate,fresh basil,2,leaves
+adrak chaap,oil,2,tablespoons
+adrak chaap,lemon juice,1,tablespoon
+adrak chaap,chili powder,1,teaspoon
+adrak chaap,yogurt,100,grams
+adrak chaap,garam masala,1,teaspoon
+adrak chaap,ginger paste,2,tablespoons
+adrak chaap,soy chunks,200,grams
+adrak chaap,salt,1,teaspoon
+adraki gobi mutter,cumin powder,1,teaspoon
+adraki gobi mutter,garlic,3,cloves
+adraki gobi mutter,salt,1,teaspoon
+adraki gobi mutter,garam masala,1,teaspoon
+adraki gobi mutter,cauliflower,1,medium-sized head
+adraki gobi mutter,coriander powder,1,teaspoon
+adraki gobi mutter,tomatoes,2,medium-sized
+adraki gobi mutter,onion,1,medium-sized
+adraki gobi mutter,ginger,1,inch piece
+adraki gobi mutter,turmeric powder,1,teaspoon
+adraki gobi mutter,oil,2,tablespoons
+adraki gobi mutter,green peas,1,cup
+adraki gobi mutter,green chili,2,chopped
+adraki jhinga,coriander powder,1,teaspoon
+adraki jhinga,ginger,50,grams
+adraki jhinga,green chilies,2,chopped
+adraki jhinga,salt,1,teaspoon
+adraki jhinga,garlic,4,cloves
+adraki jhinga,turmeric powder,1,teaspoon
+adraki jhinga,onion,1,large
+adraki jhinga,lemon juice,2,tablespoons
+adraki jhinga,oil,2,tablespoons
+adraki jhinga,prawns,500,grams
+adraki jhinga,cumin powder,1,teaspoon
+adraki jhinga,red chili powder,1,teaspoon
+adraki jhinga,garam masala,1,teaspoon
+adraki jhinga,tomatoes,2,medium
+adraki lamb chops,lamb chops,4,pieces
+adraki lamb chops,ginger,2,tablespoons
+adraki lamb chops,spices,1,teaspoon
+adraki lamb chops,garlic,2,cloves
+adraki paneer,yogurt,3,tablespoons
+adraki paneer,cream,2,tablespoons
+adraki paneer,tomato,2,medium
+adraki paneer,garlic,3,cloves
+adraki paneer,green chili,2,small
+adraki paneer,"spices (cumin, coriander, turmeric, red chili powder)",1,teaspoon each
+adraki paneer,oil,2,tablespoons
+adraki paneer,ginger,2,tablespoons
+adraki paneer,onion,1,medium
+adraki paneer,paneer,250,grams
+adraki paneer,salt,1,teaspoon
+adras mencía spain,Garlic,3,cloves
+adras mencía spain,Pork,1,lb
+adras mencía spain,Mencía wine,1,cup
+adras mencía spain,Tomatoes,2,medium
+adras mencía spain,Paprika,1,tbsp
+adrenaline,caffeine,1,shot
+adrenaline,sugar,1,teaspoon
+adrenaline,water,100,ml
+adrenaline,taurine,1,shot
+adrian omelette,salt,0.5,teaspoon
+adrian omelette,cheddar cheese,0.5,cup
+adrian omelette,mushrooms,0.5,cup
+adrian omelette,eggs,3,pieces
+adrian omelette,olive oil,1,tablespoon
+adrian omelette,black pepper,0.25,teaspoon
+adrian omelette,bell pepper,0.5,cup
+adrian omelette,onion,0.25,cup
+adriatic linguine,garlic,2,cloves
+adriatic linguine,white wine,50,ml
+adriatic linguine,tomatoes,2,medium
+adriatic linguine,shrimp,150,g
+adriatic linguine,mussels,100,g
+adriatic linguine,parsley,1,tbsp
+adriatic linguine,linguine,200,g
+adriatic linguine,lemon juice,1,tbsp
+adriatic linguine,olive oil,2,tbsp
+adriatic seafood brodetto,fish fillets,1,lb
+adriatic seafood brodetto,fish stock,2,cups
+adriatic seafood brodetto,parsley,2,tbsp
+adriatic seafood brodetto,olive oil,2,tbsp
+adriatic seafood brodetto,clams,1,lb
+adriatic seafood brodetto,tomatoes,2,cans
+adriatic seafood brodetto,shrimp,1,lb
+adriatic seafood brodetto,garlic,3,cloves
+adriatic seafood brodetto,salt,1,tsp
+adriatic seafood brodetto,white wine,1,cup
+adriatic seafood brodetto,mussels,1,lb
+adriatic seafood brodetto,onion,1,large
+adriatic seafood brodetto,pepper,1,tsp
+adriatic seafood frittata,eggs,6,
+adriatic seafood frittata,spices,1,tsp
+adriatic seafood frittata,mussels,150,g
+adriatic seafood frittata,herbs,2,tbsp
+adriatic seafood frittata,squid,100,g
+adriatic seafood frittata,shrimp,200,g
+aduld,lemongrass,2,stalks
+aduld,kaffir lime leaves,4,leaves
+aduld,chili peppers,2,pieces
+aduld,"protein (chicken, shrimp, or fish)",200,g
+aduld,galangal,50,g
+adult,Parmesan cheese,1,tablespoon
+adult,tomato sauce,1,cup
+adult,fresh basil,2,leaves
+adult,pasta,200,grams
+adult alfredo,heavy cream,1.5,cups
+adult alfredo,fettuccine pasta,8,oz
+adult alfredo,parmesan cheese,1,cup
+adult alfredo,black pepper,0.25,tsp
+adult alfredo,butter,0.5,cup
+adult alfredo,garlic,2,cloves
+adult alfredo,salt,0.5,tsp
+adult beer float,vanilla ice cream,2,scoops
+adult beer float,beer,1,bottle
+adult big crystal,beef,250,g
+adult big crystal,green onions,2,stalks
+adult big crystal,brown sugar,1,tbsp
+adult big crystal,onion,1,medium
+adult big crystal,soy sauce,2,tbsp
+adult big crystal,ginger,1,tsp
+adult big crystal,garlic,3,cloves
+adult big crystal,sesame oil,1,tbsp
+adult big crystal,rice vinegar,1,tbsp
+adult bonanza,tangy sauce,0.5,cup
+adult bonanza,grilled meats,1,lb
+adult bonanza,roasted vegetables,2,cups
+adult breakfast santa,cheddar cheese,1,slice
+adult breakfast santa,bacon,2,slices
+adult breakfast santa,sourdough bread,2,slices
+adult breakfast santa,eggs,2,pieces
+adult breakfast santa,tomato,1,slice
+adult breakfast santa,avocado,0.5,pieces
+adult buff,onions,1,piece
+adult buff,lamb,250,grams
+adult buff,Mediterranean spices,1,tablespoon
+adult buff,garlic,3,cloves
+adult buff,tomatoes,2,pieces
+adult buff,beef,250,grams
+adult butter pasta,butter,2,tablespoons
+adult butter pasta,Parmesan cheese,1,cup
+adult butter pasta,garlic,2,cloves
+adult butter pasta,black pepper,1,teaspoon
+adult butter pasta,cream,1,cup
+adult cheese,matured cheese,200,grams
+adult cheese burger helper,spices,1,tbsp
+adult cheese burger helper,pasta,8,oz
+adult cheese burger helper,ground beef,1,lb
+adult cheese burger helper,cheese,1,cup
+adult cheese pizza,mozzarella cheese,1,cup
+adult cheese pizza,pizza dough,1,portion
+adult cheese pizza,tomato sauce,0.5,cup
+adult cheese pizza,parmesan cheese,0.5,cup
+adult cheese pizza,"toppings (e.g. pepperoni, mushrooms, bell peppers)",1,portion
+adult cheese sandwich,bread,2,slices
+adult cheese sandwich,cheddar cheese,2,slices
+adult cheese sandwich,butter,1,tablespoon
+adult cheeseburger,cheese,1,slice
+adult cheeseburger,lettuce,1,leaf
+adult cheeseburger,bun,1,pc
+adult cheeseburger,pickles,2,slices
+adult cheeseburger,tomato,2,slices
+adult cheeseburger,beef patty,1,pc
+adult cheeseburger,onion,2,slices
+adult cheeseburger,special sauce,1,tbsp
+adult chicken fingers,egg,1,piece
+adult chicken fingers,parmesan cheese,1,cup
+adult chicken fingers,chicken breast,2,pieces
+adult chicken fingers,paprika,1,tsp
+adult chicken fingers,breadcrumbs,1,cup
+adult chicken fingers,salt,1,tsp
+adult chicken fingers,garlic powder,1,tsp
+adult chicken fingers,pepper,1,tsp
+adult chicken fingers,flour,1,cup
+adult chicken fingers,oil,2,cups
