@@ -1,0 +1,501 @@
+dish_name,sweet,salty,sour,bitter,umami
+blondie,80,10,5,5,0
+chilli,10,30,0,20,40
+western,15,30,5,10,20
+caesar salad,10,60,10,20,40
+yoga breakfast,40,20,0,10,30
+chicken salad,20,30,10,10,40
+everything,20,30,0,10,40
+soup,10,30,10,10,40
+chicken little,20,60,10,10,80
+garden omelette,10,30,0,20,40
+friss,40,20,0,10,30
+cheese,10,80,5,10,90
+egg salad scoop,10,40,20,10,20
+chocolate cake,90,0,0,0,0
+wheat,0,10,0,5,0
+hot dog,10,70,10,10,50
+chicken breast,10,40,5,10,60
+chef salad,10,40,0,20,30
+bacon lettuce tomato,10,80,5,10,20
+mixed fruit salad,80,10,5,5,0
+chicken caesar wrap,10,60,10,20,40
+plain omelette,0,30,0,0,0
+breakfast,40,20,0,10,30
+chicken caesar salad,10,60,10,20,40
+banana,80,0,20,0,0
+henny penny,40,20,0,10,30
+home style,20,40,0,10,30
+the fifth avenue,40,20,0,10,30
+corned beef,10,80,5,10,60
+muffin,70,10,10,5,5
+cole slaw,40,30,50,10,20
+steak egg cheese,10,60,5,10,80
+seasame,10,20,5,10,30
+italian sub,20,70,10,10,30
+breakfast burrito,10,60,0,10,30
+booey wraps,10,60,30,20,40
+french toast,70,10,10,5,5
+car,5,20,0,10,30
+tuna tuna,10,60,10,10,80
+broccoli bacon salad,10,60,10,20,40
+tuna salad,20,40,10,10,60
+ham and swiss cheese,10,70,5,10,50
+brownie,80,10,0,20,0
+turkey club,10,70,5,10,30
+vegetable,15,20,5,10,30
+greek cucumber feta salad,10,60,30,20,40
+leo,20,30,10,10,50
+plain,0,20,0,0,0
+chicken bacon avocado salad,20,60,10,10,30
+health watch,10,20,5,10,30
+roast beef,10,60,10,20,80
+chicken on mixed greens,10,30,10,10,40
+miami bagel,30,70,5,10,20
+toss salad,15,20,30,10,5
+chicken cheese steak,10,70,5,10,80
+cheese cake,80,10,5,20,30
+steak,10,70,5,10,90
+egg salad,10,30,5,10,20
+gyro salad,10,60,30,20,40
+buc,10,60,30,20,80
+georgetowner,10,30,0,20,40
+scheherazade,40,20,0,10,30
+vegetable burger,10,30,0,20,40
+chicken rice,10,60,20,10,70
+ace,20,30,0,10,40
+hummus,10,60,20,20,40
+apple,80,0,20,0,0
+lemon bar,70,10,100,20,0
+patty hearst,10,60,0,20,80
+cheese omelet,10,60,5,10,40
+chicken fajitas,20,60,30,10,40
+potato salad,15,40,15,10,20
+avocado bacon toast,10,60,0,10,20
+buttermilk pancakes,70,10,0,10,10
+turkey breast,10,60,5,10,40
+ham,10,80,0,10,60
+pastrami,10,80,5,20,90
+pita pan wrap,20,60,15,10,30
+tuna salad scoop,20,40,30,10,60
+smoothie,60,10,5,5,20
+cinnamon raisin,80,0,0,0,0
+carrot cake,80,10,0,5,5
+sesame noodles,20,60,10,10,70
+chicken gyro,10,60,30,20,40
+chicken salad scoop,20,30,10,10,40
+salisbury,10,60,10,20,80
+hamburger,10,60,0,10,40
+macaron,80,10,0,5,5
+adb,5,20,5,10,30
+chalet,10,60,5,20,40
+duke,10,30,0,20,40
+cookies,80,10,5,5,0
+salmon salad,20,30,10,10,60
+reuben,10,70,10,20,60
+the californian,20,30,0,10,40
+bacon chz burger,10,80,5,10,60
+brun smash,20,30,0,10,40
+fried deviled eggs,5,70,5,10,20
+peach cobbler,80,10,0,5,5
+black bean burger,10,40,10,20,60
+empanadas,10,60,0,10,30
+fruit,100,0,20,0,0
+entry,20,30,0,10,40
+fries,5,80,5,10,10
+cheesecake cookie,80,10,0,5,5
+cauliflower bites,10,30,10,10,40
+sauteed broccoli,10,20,0,30,40
+chocolate fudge cake,80,10,0,20,0
+black and blue salad,10,30,0,20,40
+brun fries,5,80,0,10,5
+shrimp and grits,20,70,5,10,30
+salmon dish,20,40,10,10,70
+creme brulee,90,5,0,10,15
+show,40,20,0,10,30
+paloma,30,20,40,10,0
+tropical fan caesar,30,60,10,20,40
+cauliflower wings,20,60,10,20,40
+lemondrop,50,0,50,0,0
+dark and stormy,30,20,40,10,0
+hot chick,10,60,30,20,80
+shrimp,20,60,10,10,80
+corpse reviver,0,10,0,70,20
+stawberry feta salad,60,20,5,10,5
+chicken and waffles,40,60,5,10,30
+wine or whiskey tasting,0,0,0,0,0
+lamb,5,30,5,10,60
+kentucky mule,30,10,40,20,0
+ebl head,5,20,5,30,40
+penicillin,10,20,5,30,50
+fried asparagus,10,30,0,20,40
+mushroom swiss burger,10,60,10,20,80
+stuff belly,10,60,10,20,80
+long island,10,30,0,20,40
+cajun chicken,10,60,10,20,40
+gentleman man,40,20,0,10,30
+chicken sandwich,10,60,5,10,40
+mussels and shrimp pasta,20,60,10,10,70
+calamari,20,70,10,10,60
+ginger ale,70,0,30,0,0
+brun big,20,30,0,10,40
+art event,40,20,0,10,30
+club sandwich,10,70,10,10,30
+shrimp boy,20,60,10,10,80
+foverer greenrey,10,20,0,30,40
+southern brun she crab,10,70,15,20,60
+old fashioned,20,0,0,80,0
+pesto pasta salad,10,60,10,20,80
+caprese skewers,40,60,30,20,80
+gin rickey,0,0,80,0,0
+whiekey pudding,80,10,5,20,30
+greens,5,20,5,30,10
+paper plane,40,20,0,10,30
+gravy biscuit,10,70,5,10,30
+dirty,5,30,5,20,40
+midnight manhatten,60,20,10,30,40
+blackberry henney,70,10,30,20,0
+salmon,10,60,10,20,80
+lamb chops,10,60,0,10,80
+mac and cheese,20,70,5,10,80
+salmon bites,10,60,10,10,80
+top shelf long island,40,30,50,20,10
+omelet,5,60,5,10,30
+cheese quesadilla,10,70,10,10,30
+juice,90,0,10,0,0
+onion rings,10,70,0,10,20
+brownie ice cream cake,80,10,0,20,0
+red bull,100,0,0,0,0
+the coastal creation,10,60,30,20,40
+coastal land and sea lasagne,10,80,5,20,70
+chicken mini corn dogs,20,80,5,10,30
+funnel fries,90,80,10,10,10
+waffles,70,10,15,5,0
+strip,10,60,0,20,80
+coastal style chicken waffles,20,70,5,10,30
+cheesesteak eggrolls,10,80,5,10,60
+vegetable delight,40,20,0,10,30
+coastal slam,10,80,30,20,60
+pancakes,70,10,5,5,0
+wings,10,80,10,10,60
+steak and eggs,10,60,5,10,80
+mahi,20,30,10,10,60
+give me the protein,0,30,0,10,60
+burger,10,70,5,10,50
+filet,10,60,10,20,80
+breakfast flatbread,10,40,20,10,20
+cinnamon roll waffles,80,0,0,0,0
+bacon wrapped pineapple,60,80,10,10,20
+cereal french toast,40,10,5,5,15
+tenders,5,70,5,10,20
+breakfast tacos,10,70,20,10,30
+loaded nachos,10,80,20,10,30
+cheesecake,80,10,0,5,5
+mozzarella sticks,10,80,10,10,60
+cinnamon roll pancakes,80,10,5,5,0
+breakfast bacon burger onion rings,10,80,5,10,30
+meatballs,20,60,10,10,80
+turkey club wrap,10,60,10,10,30
+gold peak sweet,100,0,0,0,0
+greek pizza,10,70,30,20,60
+chicken and noodle,10,60,10,10,70
+fried shrimp sub,10,70,5,10,30
+vegetable cold sub,10,30,30,10,20
+mushroom steak sub,10,30,5,20,80
+tuna salad wrap,20,60,10,10,40
+chicken souvlaki,20,70,40,10,30
+chicken wings and fries,10,80,5,10,60
+garlic knots,5,70,5,10,20
+philly cheesesteak pizza,10,80,5,10,60
+ravioli,20,40,10,10,60
+chicken fillet sub,10,60,10,10,40
+shrimp salad sandwich,10,60,15,20,40
+maryland crab soup,20,60,30,20,40
+chicken bacon and ranch,10,70,5,10,30
+hamburger sub,10,70,5,10,50
+margarita pizza,10,70,30,20,60
+chesapeake chowder,10,60,5,20,40
+stuffed shells,20,40,10,10,60
+strawberry milkshake,80,0,20,0,0
+chicken breast sandwich,10,60,5,10,40
+gold peak peach,80,0,20,0,0
+bacon and ranch fries,10,80,5,10,30
+spaghetti,20,60,10,10,40
+famous greek salad,20,60,40,20,10
+saus sub,20,80,10,10,60
+vegetable pizza,20,60,10,20,40
+shrimp salad sub,10,60,30,20,40
+cheeseburger,10,70,5,10,50
+jerk chicken cheesesteak,20,70,10,10,60
+pizza,10,70,20,10,50
+corn,40,20,5,10,15
+lemon water,0,0,100,0,0
+white pizza,10,40,0,10,60
+fanta peach,80,0,20,0,0
+chicken steak sub,10,70,5,10,50
+tender,10,20,5,10,30
+pita pizza,20,60,30,10,40
+frenchie sub,20,70,10,10,30
+chicken delight,20,60,10,10,70
+hot vegetable sub,10,40,0,20,30
+fanta berry,80,0,20,0,0
+steak wrap,10,70,10,10,90
+pizza steak sub,10,70,20,10,60
+chicken club,10,70,20,10,50
+pibb,100,0,0,0,0
+homemade lasagna,10,60,10,20,80
+chili,10,40,30,20,60
+turkey breast sandwich,10,60,0,10,30
+green beans,15,20,5,10,30
+fanta strawberry,80,0,20,0,0
+bbq chips,5,80,0,10,5
+cajun chicken club,10,70,20,10,30
+fried cheese ravioli,10,70,5,10,30
+mac cheese wedges,20,80,10,10,60
+onion garlic chip,5,60,5,10,20
+reuben sandwich,10,80,10,20,60
+tuna salad sub,20,60,30,10,40
+fanta pineapple,80,0,20,0,0
+french fries,5,80,5,10,10
+spinach pizza,10,60,10,20,40
+egg salad sandwich,10,60,10,10,20
+orange powerade,80,0,20,0,0
+jalapeno poppers,10,60,0,10,20
+meat sauce,20,60,10,10,80
+cheeseburger sub,10,70,5,10,60
+roast beef club,10,70,5,10,80
+reuben sub,10,80,10,20,60
+mashed potatoes and gravy,10,80,5,10,20
+tuna fish sandwich,10,60,20,10,80
+chicken salad sub,20,40,10,10,30
+veal parm,20,70,10,10,80
+shrimp salad wrap,20,30,10,10,40
+cajun bbq chick pizza,20,70,10,10,60
+chicken breast sub,10,60,10,10,70
+cheese fries,10,80,5,10,60
+buffalo chicken pizza,20,70,10,10,50
+chicken salad sandwich,20,40,10,10,30
+crab pretzel,10,70,5,10,30
+hawaiian pizza,30,70,20,10,60
+cajun chicken breast sandwich,10,70,5,10,30
+broccoli and chz,10,60,5,20,40
+italian cheesesteak sub,10,70,10,10,60
+root beer,80,0,20,0,0
+fruit punch,80,10,60,20,30
+veal sub,10,60,10,20,80
+fried pickle chips,5,80,20,10,5
+pickle chips,5,80,100,10,5
+corned beef sub,10,80,5,10,60
+honey bbq chip,60,40,10,10,20
+breaded shrimp,10,70,5,10,30
+friesgravy,10,80,5,10,60
+apple juice,100,0,0,0,0
+chicken wrap,10,60,20,10,40
+cheddar sour cream,10,70,30,10,20
+hellenic delight,60,30,20,10,40
+chocolate milkshake,90,0,0,0,0
+cheese sub,10,70,5,10,80
+fanta grape,80,0,20,0,0
+meat lovers pizza,20,70,10,10,80
+crab chips,10,80,5,10,30
+ham sandwich,10,70,5,10,30
+tzatziki and pita,20,40,50,20,10
+cheeseburger club,10,70,5,10,50
+cheese sandwich,10,60,5,10,80
+reg no salt,0,0,0,0,0
+ripple plaine,40,20,0,10,30
+garlic breadno chz,10,70,0,10,20
+coleslaw,40,30,50,10,20
+ham sub,10,80,5,10,30
+roast beef sub,10,70,5,10,80
+bacon lettuce tomato sandwich,10,80,5,10,20
+pizza sub,20,70,10,10,60
+ham and cheese club,10,80,5,10,60
+beef shrimp,10,60,5,20,80
+chicken cheesesteak sub,10,70,5,10,50
+italian cold cut sub,10,80,5,10,60
+crab dip,20,60,10,10,80
+cannoli,80,10,5,20,30
+oreo pie,90,10,5,20,30
+popcorn shrimp,10,80,0,10,20
+chicken pizza,20,60,10,10,70
+buffalo chicken wrap,10,70,20,10,30
+vanilla milkshake,90,0,0,0,0
+water,0,0,0,0,0
+regular chip,0,80,0,0,0
+triple chz stk,10,80,5,10,90
+chicken salad club,20,40,10,10,30
+turkey breast sub,10,60,0,10,30
+pizza burger,10,70,20,10,60
+cajun bbq chicken sub,20,70,10,10,60
+chandler,20,30,0,10,40
+chicken tender app,10,70,5,10,50
+orange juice,100,0,20,0,0
+dough,5,10,0,5,0
+smokin sweet,60,20,5,10,30
+bacon lettuce tomato sub,10,80,5,10,20
+gyro sub,10,60,30,20,40
+meatball parm sub,20,70,10,10,80
+bacon lettuce tomato club,10,80,5,10,20
+cheesesteak sub,10,70,10,10,60
+chicken filet sandwich,10,60,5,10,40
+crab balls app,20,60,10,10,80
+cake of week,80,10,5,5,0
+egg salad sub,10,40,20,10,20
+cheese ravioli,10,60,5,10,80
+black bottoms,60,20,5,10,30
+lemoande,80,0,20,0,0
+fanta orange,80,0,20,0,0
+salt vin chips,0,80,20,0,0
+fried butterfly shrimp,5,80,5,10,20
+green pepper steak sub,10,40,10,20,60
+curly fries,10,80,5,10,20
+chicken parm sub,20,70,10,10,50
+cream of crab soup,10,40,5,10,60
+buffalo tenders,10,80,10,10,60
+crab cake sandwich,10,60,5,10,70
+pizza fries,10,80,10,10,60
+banana pudding,80,10,10,10,10
+rice pudding,80,10,5,5,20
+battered mushrooms,10,40,5,20,60
+red powerade,80,0,20,0,0
+roast beef sandwich,10,60,5,10,80
+chicken salad wrap,20,30,10,10,40
+gyro on pita,10,60,30,20,40
+fried shrimp sandwich,10,70,5,10,30
+sour cream chip,0,30,70,0,0
+ripples,40,30,0,10,20
+gingerale,80,0,20,0,0
+lil niros pizza,20,80,10,10,90
+turkey reuben,10,70,30,20,60
+cheese with fries,10,80,5,10,60
+soup of the day,10,30,10,10,40
+sausage parm sub,10,80,5,10,60
+fish filet sandwich,20,60,10,10,70
+buffalo chicken sub,20,80,10,10,60
+triple chocolate cake,90,10,5,5,0
+chicken and rice,10,60,5,10,40
+ham turkey and cheese club,10,80,5,10,30
+broccoli cheese bites,10,60,10,20,40
+gold peak,40,20,0,10,30
+shrimp parm sub,20,70,10,10,60
+steak sub,10,70,5,10,90
+greek chicken wrap,10,60,30,20,40
+tomato and cheese pizza,20,70,30,10,80
+fanta,100,0,0,0,0
+beef cheesesteak shrimp,10,70,5,10,80
+loaded mash potatoes,10,70,0,10,20
+chicken shrimp,20,60,10,10,70
+garlic breadchz,10,70,0,10,20
+hot chip,5,80,0,10,5
+shrimp chicken cheesesteak,10,60,5,10,70
+chz fish sub,10,70,20,10,50
+macaroni cheese,20,70,5,10,50
+bacon cheeseburger,10,80,5,10,60
+fish sub,10,60,10,20,80
+italian hot cut,10,70,10,20,60
+italian salad,10,30,20,20,40
+pasta alfredo,20,60,10,10,80
+chz burger,10,70,5,10,50
+garden salad,15,20,10,10,5
+eggplant parm sub,30,60,10,20,70
+tuna salad club,20,60,30,10,40
+corned beef sandwich,10,70,5,10,30
+bacon cheese fries,10,80,5,10,60
+chick triple chz stk,10,80,5,10,90
+strawberry dole whip,80,0,20,0,0
+brownie twister,80,10,0,20,0
+vanilla,100,0,0,0,0
+orange dole whip,80,0,20,0,0
+dew,40,10,0,20,30
+sweet potato waffle,80,10,5,5,0
+lime dole whip,80,0,20,0,0
+cookie monster twister,80,10,5,5,0
+michigan pothole,10,30,0,20,40
+maple walnut,70,10,0,20,0
+cookies and cream,80,10,5,5,0
+banana pudding twister,80,10,5,5,20
+brookie dough blast,80,10,5,5,0
+lil blue panda,40,20,0,10,30
+super berry acai,80,10,30,20,5
+twister,20,30,0,10,40
+pistachio,30,10,5,5,15
+cheese curds,10,80,10,10,60
+watermelon dole whip,80,0,20,0,0
+lemon dole whip,70,10,100,10,10
+chicken tenders,10,70,5,10,30
+chocolate,100,0,0,0,0
+cookie dough,80,10,5,5,0
+snickers twister,70,10,5,5,20
+pineapple dole whip,80,0,20,0,0
+cheesecake twister,70,10,0,5,15
+praline pecan,80,10,5,5,0
+corn dog,30,70,5,10,20
+carmel cookie cheesecake,80,10,5,5,20
+strawberry,100,0,20,0,0
+rocky road,80,20,10,10,30
+mac and cheese bites,20,80,5,10,60
+chocolate vanilla twist,70,10,0,20,0
+mint moose track,80,10,5,20,30
+oatmeal cookie cravings,70,10,0,20,0
+classic cookie,70,10,10,10,0
+hot fudge,80,10,5,5,20
+deep dish apple pie,80,10,5,5,0
+hot fudge brownie,80,10,5,20,5
+midnight caramel river,70,20,0,10,0
+classic sundae,80,10,5,10,20
+butterfinger twister,60,10,5,5,20
+cappuccino crunch,60,10,10,20,0
+gone bananas brownie boat,80,10,5,20,30
+butter pecan,70,10,15,5,0
+holiday eggnog,60,10,5,20,5
+cookie dough twister,80,10,5,5,0
+mango dole whip,80,10,20,5,5
+heath bar twister,70,20,0,10,0
+strawberry cheesecake,80,10,10,5,15
+strawberry short cake,80,10,30,10,20
+peanut butter caramel cookie dough,80,10,5,5,0
+fried oreo madness,60,10,10,5,15
+cotton candy,100,0,0,0,0
+kit kat twister,60,10,5,5,20
+superman,40,20,0,10,30
+chocolate chunk,60,10,0,30,0
+rootbeer float,80,0,20,0,0
+reeses blitz,80,10,5,5,20
+heath bar bonanza,70,10,0,20,0
+oreo twister,70,10,0,5,15
+snowball,70,10,0,5,15
+peppermint stick,80,10,5,5,0
+cotton candy twister,90,10,0,5,5
+regular waffle,50,10,20,10,10
+pumpkin,80,10,5,20,30
+reeces twister,70,10,5,5,20
+pepper float,40,20,0,10,30
+dark chocolate raspberry truffle,80,10,10,60,20
+campfire smores,70,20,0,10,30
+amaretto cherry,100,0,50,0,0
+birthday cake,90,10,5,5,5
+mint and oreos,50,0,0,0,0
+crispy french fries,5,80,0,10,5
+dirt sundae,60,10,5,5,20
+peanut butter,70,10,10,5,5
+pepper,0,0,0,0,0
+peanut butter and fudge,80,10,0,10,0
+sunkist,80,10,90,20,30
+andes candies twister,90,10,5,20,30
+snickers blast,70,10,5,5,20
+hands off cookie,70,10,15,5,0
+oreo cookie blast,70,10,0,20,0
+banana boat,80,10,5,5,20
+fried oreos,70,10,0,5,15
+breakfast burger,10,70,5,10,30
+bacon burger,10,80,5,10,60
+sunkist float,70,10,30,10,20
+regular funnel,40,20,25,10,5
+goat biryani,20,70,10,10,80
+salmon korma,20,40,10,10,60
+paneer tikka,20,60,30,10,70
+ckn deep fried momo,10,60,0,10,30
+rice,0,10,0,0,0
+matar mushroom,20,30,10,10,60
+chicken hakka noodles,10,60,20,10,40
