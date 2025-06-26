@@ -1,8 +1,10 @@
 from flask import Flask, request, jsonify
+from flask_cors import CORS
 import random
 import data_science
 
 app = Flask(__name__)
+CORS(app)
 
 
 def get_user_dishes(user_id, dishes):
