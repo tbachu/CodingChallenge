@@ -2,7 +2,6 @@ import pandas as pd
 import os
 
 def flavor_distance(dish, profile):
-    # Handle missing flavors by defaulting to 0
     return sum((dish.get(flavor, 0) - profile.get(flavor, 0)) ** 2 for flavor in profile) ** 0.5
 
 def find_closest_dish(dishes, profile, num):
